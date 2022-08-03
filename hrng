@@ -1,0 +1,256 @@
+<twabs> but now I want to make a conlang that contrasts /ŋ/ and /ŋ˞/
+<twabs> like /ŋ͡ɻ/
+<twabs> whatever the hell that sound is
+<twabs> I don't like either of those descriptions
+<twabs> man I cannot seem to find any existing notation for this
+<twabs> velar consonant with a retroflex tongue shape
+<twabs> I'm p sure I can hear the difference
+<twabs> but I guess it doesn't exist anywhere
+<AsaBen> it might not exist naturally in any documented languages
+<twabs> yeah probably not
+<twabs> and granted retroflices are rly rare
+<twabs> still shouldn't some dravidian language have this
+<twabs> and if not that's a waste of a dravidian language
+<twabs> t b h
+<twabs> im gonna make a conlang that is to retroflices what slavic is to palatals
+<twabs> and I will call it Hrng
+<twabs> what
+<twabs> how come retroflex ɬ isn't a real sound
+<twabs> do I put ʈꞎ in the conlang anyway
+<twabs> or do I flatten it to ʈː
+<AsaBen> flatten
+<twabs> I think ʈꞎ > ʈː synchronic
+m n ɳ ŋ ŋ̨ [ɴ ɴ̨]
+  t ʈ k k̨ q q̨
+  tɬ
+  l ɭ
+<twabs> inventory
+<twabs> + gemination
+<twabs> ɴ ɴ̨ are allophonic only
+<twabs> also no /p/ because B)
+<twabs> oh I need /w j/
+<twabs> that's what I'm missing
+<twabs> and vowel inv is /e a o/
+<twabs> romanizing that is going to be something
+<twabs> I'm thinkin like
+<twabs> isolating except kinda not
+<twabs> my portuguese friend told me about how portuguese has clitic infixation and now I want to do it in a conlang
+<twabs> "eu o destruirei" = "eu destruirei lo" = "eu destruiloei"
+<twabs> "I destroyed it"
+<twabs> destru-i=lo=ei
+<twabs> it only happens in future and... pluperfect I think?
+<twabs> hrng should have like
+<twabs> this but eroded
+<twabs> so that the position of a clitic is the only signifier of tense
+<twabs> like tatɬewiq̨aya "I drove them" vs witatɬeqaya "I drive them"
+<twabs> tatɬe "drive"
+<twabs> -qaya 1SG
+<twabs> -wi 3SG.OBJ
+
+I have said some contradictory things here. Let's figure out a way to make them
+simultaneously true.
+
+* I think the only affixes I want are personal.
+
+* ɽ > ɳ, so that explains the loss of ɽ
+
+* SVO
+
+* No morphosyntactic TAM except for present/past.
+
+* Not simply nom-acc. Instead... split ergative, but with separate NOM and ERG
+  cases?
+
+I don't really want to mark case on nouns, but I'm okay with doing a Japanese.
+
+Let's just write out some sentences:
+
+tatlewiqaya "I drove them"
+
+- tatle "drive"
+- wi 3SG.OBJ
+- qaya 1SG
+
+tatɬeyoɴqaya "they drove me"
+
+- yoŋ 3SG.NOM
+
+ḳotaqau "I spoke"
+
+- ḳota "speak"
+- qau 1SG (alternate form)
+
+ṭewaṭaenema "they mend it"
+
+- ṭe 3SG.N.OBJ
+- waṭae "mend"
+- nema 3SG.ERG
+
+mengeq̣oṭe "it broke"
+
+- mengeq̣o "break"
+
+* verb serialization via compounding, such that it allows verbs to become
+  transitive. not unlike greek or english but with other verbs instead of
+  prepositions
+
+ṭowaḳotawiḳama "you said to him"
+
+- ṭowa "face <verb>"
+- ḳama 2SG.NOM
+
+
+so the basic idea is that we have NOM, ERG, OBJ cases, split ergativity based on
+presence of a 1st or 2nd person.
+
+no, we need a fourth case. the fourth case is passive. now I like this
+
+waṭaeṭṭaye "it was mended"
+
+- ṭṭa(ye) 3SG.N.PASS
+
+
+we need a bit of diachrony/synchrony:
+
+* pre-language has *ɽ, /a e i o u/ and CV
+
+* o > ø
+* Cl > tl
+* p > ø
+* C > rC / _r, r_
+* r > n / V_{e}
+* r > ɳ / V_{a,o,u}
+* l > n / _C
+* r > ø
+* e > a / stressed
+* i u > e o
+* delete final /e a/ if the word has more than two syllables? this is probably synchronic
+
+* there is not much of a preposition/verb distinction. there are a few
+  positional verbs which are basically also prepositions: yiwa "be on top of",
+  ṭa "be behind", ayao "be under", weṭeṭo "be around, enclose", tame "move
+  around, circle", taqa "move into", moɳala "move up, climb". more metaphorical
+  prepositions tend to derive from other verbs; there is a decent amount of
+  lexical metaphor: eḳone "count" -> "about, relating to", sometimes benefactive
+  "for"; weyo "give" -> "to, towards", sometimes benefactive "for".
+
+* Verbs which are not the head verb (or compounded with it) are preceded by a
+  particle ṇgo. I don't know what the proper name for this kind of particle is.
+  It's not really a conjuction because adverbs and other stuff modifying the
+  main verb can still follow a non-head verbal clause. In a sense I guess this
+  is a gerund-like participle. It's basically English "that" but it can be used
+  to modify anything
+
+* There is an animate/inanimate distinction. Substantive endings are:
+
+        ANIM   INAN
+ - NOM  ḷoḳen  ewe
+ - OBJ  Ø      e
+ - ERG  ka     e
+ - PASS ṇeṭa   eṭṭa(ye)
+
+* What do I translate? I'm kind of conflicted here. To make a good post I should
+  be inventing a new text, ideally one that reveals something about the cultural
+  context of Hrng. But part of the thing right now is that I don't really want
+  to add any context to this language—no siblings, no parent, no conworlding,
+  and just enough diachronics to make the words look less bad.
+
+this board is mostly dead but I don't really want to post on the zbb
+
+Here is a langugage called Hrng. It is called Hrng because it does not have /h/. It does however have phonemic retroflicization. This will be marked with a preceding <r>. There is no non-lateral approximant in the language.
+
+
+---
+
+let's fill out the cases. Copied from above, non-pronouns:
+
+        ANIM   INAN
+ - NOM  ḷoḳen  eu
+ - OBJ  Ø      e
+ - ERG  ka     e
+ - PASS ṇeṭa   eṭṭa(ye)
+
+3sg:
+
+        ANIM   INAN
+ - NOM  yoŋ    ṭewe/teu
+ - OBJ  wi     ṭe
+ - ERG  nema   ṭe
+ - PASS ŋ̣eṭa   eṭṭa(ye)
+
+2sg:
+
+        ANIM
+ - NOM  ḳama
+ - OBJ  naq̣e
+
+1sg: qaya (or alternate form qau) NOM/OBJ. Passive constructions with 1SG and
+2SG can't really be done. This implies that what we really have here is more of
+a split direct/inverse.
+
+Note that many of these are regularly affected by final vowel deletion, but the
+inanimate passive is not (it does not become **-eṭṭ nor **-eṭṭai).
+
+---
+
+the internal name is:
+
+  - yaṇg (ḷeṇom) which is historically a name for the dialect spoken in the city
+    of Yaṇg (Maotic: Uenter)
+
+    - borrowed into some Tavarian dialect as Yarng, later reduced to Hrng
+
+    - borrowed into some Maotic as Yangharad (yaŋ + harad "plains". Not sure why
+      since the language is spoken in the mountains. Maybe harad is a
+      bastardization of some other element?)
+
+      - borrowed back into Hrng as yanngalat (or yanngawat? Actually I think l
+        -> w is a dialectal feature)
+
+further notes:
+
+  * split ergativity is based on the presence of a first or second person, but
+    notably that doesn't have to be as the direct subject or object of the
+    relevant clause; it can be a dependent clause (or a dependent clause's
+    controller) or even just a nearby clause.
+
+    This is partly to make this a bit more interesting than "erg/abs with a
+    direct/inverse contrast bolted on top".
+
+chol has nom=erg and acc=abs. (for reference, the subject of an intransitive is
+nom or abs)
+
+I realize I slightly forgot about the clitic infixation part and also I don't
+know how word order works in general
+
+
+ṭeṇ ṇgo wimatatanema ṇgo naṭeṭ keḷeḷ ṇiwe nanga?
+why that 3SG.OBJ-raise-3SG.ERG that lack mother and father
+
+ṭeṇ? ṭeṇ
+
+
+--
+
+Because Yangharad is a Mittelo-Tavarian language it behoves us to work out some
+of the details of its neighbours.
+
+Mittelo-Tavarian is a mess. Like, a huge mess. Northern Germany/Netherlands is
+the model here. In the case of Agrócár it's largely a problem because the
+language of trade and of the higher class is Maotic. This displaced High
+Tavarian, but among the outskirts and lower classes you still see an awful
+fragmentation of High Tavarian dialects spoken, including Qhuraal and Myrve (I
+*think* these are High Tavarian dialects proper, but I'm not sure.)
+
+The trade road from Talócár to western Agrócár runs straight through <city I
+don't remember the name of> and Sevrós. Here you see the same pattern; in the
+former case you have Low Tavarian, which was pretty well displaced by Maotic,
+and in the latter Inner Mittelic which is less displaced *yet*. In both cases
+modern Mittelo-Tavarian dialects survive but are fragmented.
+
+To the northwest you have Toi-Kántr and Fír-Kántr; to the southeast Étéïc
+Tavarian.
+
+
+The presence of uvulars is an areal feature of High Tavarian. (It should also
+definitely fuck up a Maotic dialect.)
