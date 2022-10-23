@@ -1,0 +1,43 @@
+<FIXME: We have a lot of out-of-tree documents about this. Move them here.>
+
+* I think we've struggled before with the idea that we want magic to
+  conduct/convect/radiate in certain places but not others. E.g.:
+
+  * large bodies of magic like Namó Ablés should retain their magic forever
+    (should not conduct)
+
+  * small enchanted objects should also retain their magic? maybe not forever,
+    though
+
+  * magic energy should also be perceptible to a (skilled) magic user (implies
+    that magic should radiate?)
+
+  * on the other hand, talking about the man-made roads of Am'Caran, I don't
+    think those should stick around for a very long time?
+
+  * the idea that the soul needs to be cleaned because the environmental magic
+    is leeching in and mingling with yours
+
+  Now, with that said, the formula for the rate of heat flow (conduction) in the
+  real world is:
+
+  Q/Δt = -k * A * ΔT/Δx
+
+  where Q/Δt is heat transfer / time; ΔT is difference in temperature, Δx is the
+  thickness of the conducting material, k is its conductivity, and A is the
+  surface area.
+
+  But we can define the rate of magic transfer to be something different.
+  Specifically, we can remove the ΔT component, which means that very magical
+  objects (Namó Ablés, the Hearts, the Diamonds) are going to retain their magic
+  forever, whereas something man-made by someone less powerful won't. We can
+  also say it depends on, say, the difference in materials?
+
+  Or maybe just objects that are charmed should be certain types of objects that
+  have a low conductivity, I think that's even better, because it means you have
+  to think about *what* you're enchanting. It's a twist on the usual "only
+  certain materials are enchantable because they are Receptive To
+  Magic"—anything *can* be enchanted, but some materials will retain that magic
+  better than others.
+
+  Is convection a thing? I'm not sure.
