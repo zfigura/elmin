@@ -1,0 +1,136 @@
+Proto-* to river speech
+-----------------------
+- VjV and VrV > Vːː (thank you, Germanic) and VV > Vː. This eliminates hiātūs, which would be all too common otherwise. (/w/ had already shifted to /v̞/ and was not affected.) Intervocalic /r/ (not ʁ) would later be added due to rhotacism.
+	- Ins. Soróké has VjV > VV and VV unchanging, but few holdovers remain in this in Soróké and Kuelin.
+- Northern consonant shift /tˀ/ > /t/ > /s/, /dˀ/ > /d/ > /z/ before vowels (excl. /ʁ/) or word-finally
+	- does not seem to happen after /n/—must be a prenasalization thing
+- Epenthetic schwa (when? cf also class 7)
+- Breaking of /iː/ (incl. /ij/) to /iə/, /uː/ (incl. /uw/) to /uə/
+- Palatalization of dentals
+	- t⁽ʰ⁾ʲ > ts⁽ʰ⁾
+	- dʲ > dz
+	- sʲ > ʃ
+		* Billic, Soróké > ss
+		* Amain > ʃʃ
+	- zʲ > ʒ
+		* Billic, Soróké > zz
+		* Amain > ʒʒ
+	- lʲ > ʎ
+		* Billic > ll
+		* Soróké, Amain > ʎʎ
+	* Billic nʲ > nn
+- Labialization: Cw > Cʷ
+- /w/ > /v/ intervocalically & word-initially
+	* Túnic, Western interv. only
+- Fronting of /oj uj/ > /øy yː/; /ew iw/ > /øw yw/
+- Umlaut of /ɑ o u/ to /a ø y/ (incl. long) when /i/ follows
+- Diphthong resolution (short vowels only):
+	- /ɑj aj ej/ > /aː eː iː/
+	- /aw ɑw ow/ > /ɑː oː uː/
+	- /iʁ eʁ aʁ ɑʁ oʁ uʁ/ > /eː aː ɑː ɑː ɑː oː/. Note: this does not occur word-finally.
+	- /øy/ > /øː/
+* Western vowels shortened before aspirates
+- Dathrôs' law: Coda stops V_C lenite:
+	- /pʰ/ > /p/ > /f/
+	-	 /b/ > /v/
+	- /tʰ/ > /t/ > /s/
+	-	 /d/ > /z/
+	- /kʰ/ > /k/ > /x/
+		* Western > /ʃ/
+	-	 /g/ > /ɣ/
+		* Western > /ʒ/
+	- /qʰ/ > /q/ > /h/
+		* Kuelin, Túnic /qʰ/ > /q/ only
+	- Exceptions: any before /l r/ (but not before /n/), non-dentals before dentals
+		* Kuelin non-dentals before dentals affected
+		* Soróké assim. to /l r/
+	* Billic no fricativization (actually later strengthened)
+* Túnic, Kuelin Cʷ > Cw
+* Maotic Cʷ > C bordering rounded vowel
+* Kuelin stressed /i u y/ lowered (incl. long)
+	* Western only short
+	* Kuelin, Western, Maotic short before V
+	- This is somewhat irregular as a sound change
+- /ʃ ʒ/ > /s z/ after consonants
+- closed VNC > ṼC (does not affect final -n)
+- Glottalization disappears
+- /ʃ x/ debuc. to /h/, /ʒ ɣ/ to /Ø/
+	* Billic /ʒ/ > /j/
+- Cʷ > alv. before /e i ø y/, > lab. otherwise
+- coda /l/ > /ʎ/ after /e i/
+	* Billic DNO
+- short nonnasal chain-shift /i/ > /e/ > /a/ > /ɑ/ > /o/ > /u/ (this affects /eə oə/)
+* Billic /ts/ > /ss/, /dz/ > /z/
+- Unstressed schwa reduced after vowels, or when typical syncope allows.
+	* This varies greatly across dialects. Of note is Billic and Amain, which usually don't reduce /aə uə/ (esp. in the vocative and locative.) Soróké tends to vary on this—but usually loses it in inflectional endings.
+- Rhotacism: intervocalic /z/ > /r/. (How does this interact with /ʁ/?))
+	* Billic DNO
+	* Túnic > /s/
+* Soróké, Amain intervocalic /p t k/ voiced
+- l̥ > il, n̥ > in, m̥ > im, r̥ > ɑr
+	* Kuelin, Western > ul, un, um, ɑr
+* Maotic, Kuelin, Billic any remaining geminates (incl. CCʰ) are shortened.
+	* Amain, Túnic DNO
+	* Soróké, Western previous vowel is lengthened
+- Brightening of nonnasal /a e/ to /e i/ followed by /e i ø y/ (incl. long)
+	* Western DNO
+- uvular > velar > palatal
+- short /ɑ/ > /ə/
+	* Soróké, Amain stressed > /a/
+	* Billic > /o/
+- long /ɑː/ breaks to /æɑ͡/
+	* Ins. Soróké, Amain > /ea/
+	* Billic > /oː/
+- /w/,/j/,/z/ lost
+- front rounded vowels defront
+	* Kuelin, Túnic, Ins. Soróké deround
+* Billic /ʁ/ lost
+* Billic /uə/ > /ɨ/
+- final unaspirated stops C$ > Cs$; dentals -Ts$ > -s$ (compensatory lengthening?)
+	* Túnic only after /p t k/
+	* Billic DNO
+- /ʎ/ > /j/, /ɫ/ > /w/
+	* Amain ɫ > g, ŋ before velar, or l before labial
+	* Soróké ɫ > ŋ (Ins. ?)
+	* Túnic DNO (allophones)
+	* Billic DNO
+- everything denasalizes
+	* Billic DNO
+- /ə/ > /e/
+	* Soróké, Western > a
+- Secondary palatalization of /k/ > /s/ before /e i/
+	* Kuelin, Western DNO
+* Billic short /e ə/ > /i ɨ/
+# Orthographic freeze
+- /ae/ > /ai/
+- /æɑ/ to /ao/ in open syllables
+- Length distinction lost
+- palatal merges with velar
+
+This yields the following six ablaut patterns:
+
+Class 1: é/e/ao/ao/a/ai
+Class 2: í/a/o/á/e/ei
+Class 3: ae/e/u/é/i/í
+Class 4: á/o/ó/ao/e/au
+Class 5: ó/u/ú/ao/o/ou
+Class 6: ú/u/ue/ó/u/ú
+
+Class 7: i/e/u/o/iN/il
+
+
+Phonology:
+m   n
+p   t  c/k
+b   d  g
+ph  th ch/kh
+f   s  h
+v   r  r(r)
+-i, l, dz, ts
+
+a e i o u
+á é í ó ú
+â ê î ô û
+ao ae ue [æɑ ai we]
+
+Billic y (ɨ)
