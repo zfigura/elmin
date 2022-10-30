@@ -70,6 +70,11 @@ The tree threatened me, so I set it on fire.
 
 Please get your cow out of my way.
 
+	hissʰe atʰo1, pöw ta4 au5 apek mo2 hoss
+
+		- lolfinnish "be good"
+		- okay, I am admittedly slightly concerned at the identicalness between 2sg and the article. I could do the clitic thing, but this ALSO looks sort of like the basis for a T>V? Except that I'm not sure Greek has any history of V existing so
+
 You let a monkey in and then the monkeys ate all our bananas!
 
 Why isn't the driver stopping the cart?
@@ -131,6 +136,106 @@ I am laughing at your not having a wife; as a result you are the one cooking you
 		- predicate clauses are the shit
 		- I am laughing at your not having a wife [such that] you are food-cooking
 
-
  Ιογ ταν σηυγκοποφυλα̨κς πο̨τα̨τασς τθιμ κα̨ λυ̨ς.
  I'm debating between keeping the syncope and getting rid of it.
+
+Our father, who art in heaven / hallowed be thy name / thy kingdom come / thy will be done / on earth as in heaven
+
+	antero1 tter4 o en tö orans / ton3 onum hyare / ton3 wäsʰiliwyon erkʰ / tan4 auliss (kat)titto / ep tä2 hay huts en tö2 orans
+
+		- hieros + -ao (not classical, but rather stative)
+		- -wy- probably stays as is but could potentially > ẅ
+		- ton3 is unambiguously 2sg, because otherwise it'd be to3, but if one wants to specify they can use =to as an enclitic, and this should maybe be done with auliss
+		- the word order is still TFVR, i.e. basically SOVR, but since in imperatives the S is elided, this usually manifests as OV, but as here not always
+		- anters is analogized to antero/a/on
+
+Give us this day our epiousios bread / and forgive us our trespasses / as we forgive our trespassers
+
+	tameron siso anteron3 katʰamers orts ämin / kä kʰale ämin anteran4 ampläk / huts ame anterö5 amplakter kʰalomin
+
+		- how do I tell if huts or ttho, aaaaaa
+		- what is and, is it kä (k'?) or is it maybe de kai > sk'
+		- whatever it is, it acts like an adverb, like dé did
+		- actually, why not predicate this into 'ame amplaktrokhali' (hang on, how do we form a compound with an -ao verb?)
+
+and lead us not into temptation / but deliver us from evil
+
+	kä <don't lead> ame en ton <temptation> / all <deliver> ame par to2 <evil>
+
+		- we need an interesting way of forming negatives
+
+
+
+Weyötiss has several notable grammatical features to be noted. At first glance, it appears to be SOV:
+
+[g=ART.F-NOM.SG]Α[/g] [g=my-M-NOM.SG]εμο[/g] [g=father]ττερ[/g] [g=native-F]πα̨τορ[/g] [g=language]λοττ[/g] [g=ART.F-NOM.SG]α[/g] [g=English]Α̨γλικα[/g] [g=be.3SG]σηα̨τ.[/g] [g=1SG.NOM]Ιογ[/g] [g=3SG.ACC]ηϝε[/g] [g=understand-1SG]σηυνικ[/g] [g=and]κα̨[/g] [g=send]ικ.[/g]
+[i]My father's native language is English. I can understand and speak it.[/i]
+
+However, the object may be freely replaced with an adverb or adverbial phrase of higher valence:
+
+[g=ART.M-NOM.SG]Ο[/g] [g=LORD]Θεος[/g] [g=from]κατ[/g] [g=ART.F-GEN.SG]τα[/g] [g=beginning]ορψα[/g] [g=order-PRET-3SG]προκεκελευκ[/g] [g=INDEF-F-ACC]ιν[/g] [g=earth]ηαj[/g] [g=and.also]κκα̨[/g] [g=ART.M-ACC.PL]το[/g] [g=large-M-ACC.PL]μακρο[/g] [g=fried-M-ACC.PL]λαμπτο[/g] [g=potato]κομπιρ.[/g]
+[i]In the beginning, God ordered an Earth and large fries.[/i]
+
+Note that the object does not precede the verb, but rather follows it, so the word order may more accurately be described as subject-focus-verb-remainder.
+
+Having lost the passive, Weyötiss instead relies on topic-fronting to decrease valency:
+
+[g=1SG.DAT]Μο̨[/g] [g=pardon]σηυγγομα[/g], [g=ART.F-ACC.PL]τα[/g] [g=banana]πανανα[/g] [g=not-yet]αυπο[/g] [g=in-shipping]ινσηολα[/g] [g=do.AOR-3PL]εθον[/g] [g=3PL.NOM]πφε.[/g]
+[i]I'm sorry, the bananas haven't been shipped in yet.[/i]
+
+Note that [b]ινσηολα[/b] is not treated like a noun, but rather is an inseparable element of the verb phrase [b]ινσηολα εθον[/b].
+
+Omission of subject pronouns may be seen as antiquated, or (in the dialects of central Attica and Euboea) slang speech. Elision of [b]πφε[/b] in the sentence above is not only common in said dialects, but is seen in Boeotian and Peloponnesian colloquial speech as well.
+
+Impersonals, by contrast, never take a subject:
+
+[g=snow-PRES-3SG]Ναιφι.[/g]
+[i]It's snowing.[/i]
+
+All questions are marked with the interrogative particle [b]αρ[/b], which stands first in the sentence:
+
+[g=INT]Αρ[/g] [g=who]τι[/g] [g=can-3SG]συνα̨[/g] [g=say-INF]φαμιν[/g] [g=where-REL]ηοπαι[/g] [g=ART.M-NOM.SG]ο[/g] [g=road]ηοσς[/g] [g=go-GNOM-3SG]εϝαν;[/g]
+[i]Who can say where the road goes?[/i]
+
+[g=INT]Αρ[/g] [g=2SG-NOM]τυ[/g] [g=in]επ[/g] [g=ART.F-ACC.SG]ταν[/g] [g=city~this]πο·λςκι[/g] [g=being-born]ηονα[/g] [g=do.AOR-2SG]εθικς;[/g]
+[i]Were you born in this city?[/i]
+
+Note however that questions using adverbs place the adverbs at the beginning of the sentence, before the subject:
+
+[g=InT]Αρ[/g] [g=why]τι[/g] [g=ART.F-NOM.SG]α[/g] [g=driver-F]λα·τιρ[/g] [g=not]μα·[g] [g=stopping]παυ·σς[/g] [g=do.PRES-3SG]τθιτ[/g] [g=ART.M-ACC.SG]τον[/g] [g=car]αυτοκαινιτς;[/g]
+[i]Why isn't the driver stopping the car?[/i]
+
+The imperative acts like a normal sentence, but with the subject effectively dropped:
+[g=good]Αθο[/g] [g=be.IMP.2SG]ηισσηε[/g], [g=thy.F-ACC.SG]τα[/g] [g=cow~2SG]αυτο[/g] [g=make-IMP.2SG]πο̨ϝ[/g] [g=out-of]απεκ[/g] [g=my-M-GEN.SG]μο[/g] [g=way]ηοσς.[/g]
+[i]Please get your cow out of my way.[/i]
+
+(Note that the article is effectively identical to the second person possessive, so the clitic -το, which marks the second person, is often added. In central Greece (and especially Attic) this usage has spread to the other personal clitics -μο and -ϝηο.)
+
+However, in the Arcadian and Boeotian dialects, the imperative comes first, such that the above sentences would be translated as [b]Αθο ηισσηε, πο̨ϝ τα αυτο απεκ μο ηοσς[/b].
+
+It is also possible to use subjects with the imperative, although this usage is somewhat antiquated:
+
+[g=thy.N-NOM.SG]Τον[/g] [g=kingdom]ϝα̨σηιλιϝιον[/g] [g=come-IMP.3SG]ερχ.[/g]
+[i]Thy kingdom come.[/i]
+
+There are two ways to attach adjectives to nouns in Weyötiss. The former is simply placing the adjective between the noun and article, as above: [b]ο σηοφο νερ[/b] [i]the wise man[/i]. The second is placing the adjective after the noun, and repeating the article, and has the effect of shifting focus slightly onto the noun: [b]ο νερ ο σηοφο[/b] [i]the man who is wise[/i]. One must be careful not to omit the second article in this construction, as doing so causes the sentence to have an entirely different meaning (see "Predicate clauses" below.)
+
+Genitives work in a similar manner: [b]α το πα̨ς ματερ[/b] [i]the child's mother[/i], [b]α ματερ α το πα̨ς[/b] [i]the mother of the child[/i]. The latter construction is more common in colloquial Weyötiss, and the second (genitive-marking) article is often dropped, e.g. [b]α ματερ α πα̨ς[/b].
+
+In both cases, an important thing to note is that the second construction is effectively treated as two noun phrases for the purpose of word order, so while [b]Ιογ τον σηοφον νερ ϝεϝορακ.[/b] is a correct translation of "I saw the wise man", [b]**Ιογ τον νερ τον σηοφον ϝεϝορακ.[/b] is incorrect and must be replaced with [b]Ιογ τον νερ ϝεϝορακ τον σηοφον.[/b] Similarly, [b]Ιογ ταν ματερ ϝεϝορακ ταν το πα̨ς.[/b]
+
+PREDICATE CLAUSES
+
+One of the most unique and pervasive features of Weyötiss is the <predicate clause>, or predicate clause. A predicate clause consists of an adjective placed after a noun, without an interposing article, and implies intent, purpose, or effect, and is thus often translated with the English infinitive of purpose. While it can be used with a simple adjective, it is most often used with an exocentric compound, a highly productive class of words retained from Ancient Greek. Take the following sentence:
+
+[g=1SG.NOM]Ιογ[/g] [g=thy-F-GEN.SG]τα[/g] [g=not-wife-having~2SG]αϝανα̨κο̨χτο[/g] [g=at-laughing]κατηελς[/g] [g=do-PRES-1SG]τθιμ[/g] [g=2SG.NOM]τυ[/g] [g=food-cooking-M]σηαιτοποπς.[/g]
+[i]I am laughing at your not having a wife, as a result you are the one cooking your own food.[/i]
+
+The most direct translation of this sentence would be [i]I am laughing at your not-wife-having[/i] ([b]α-ϝανα̨κ-ο̨χ[/b]) [i], [such that] you [are] food-cooking.[/i] This is a slightly less than prototypical construction—the predicate clause is not an effect of the laughing, but rather of an embedded verbal noun.
+
+The adjective in a predicate clause can also refer to a noun used elsewhere in the sentence:
+
+[g=ART.M-NOM.PL]Το̨[/g] [g=man]ανθροπς[/g] [g=nothing]αυ̨τ[/g] [g=have.GNOM-3PL]εκψον[/g] [g=ART.N-ACC.SG]το[/g] [g=on]επ[/g] [g=good-M-DAT.SG]αθο̨[/g] [g=heaven-exchanging-N]οραναμο̨ϝον.[/g]
+[i]Man has nothing good with which to recompense Heaven.[/i] (lit. "Men have nothing on good [to be] Heaven-recompensing.")
+
+In the above sentence the predicate clause agrees with [b]αυ·τ[/b] "nothing".
