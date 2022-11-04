@@ -1,0 +1,141 @@
+some of our rules are kludgy, so
+
+- s > h / _C is a rule that operated at an early period—maybe even Koine early. If we look at Elean as a model, it had rhotacism as early as the 3rd century BC. This is maybe late enough to justify messing with Boeotian here? I'm not especially happy about it, since Thebes was powerful enough to not get linguistically wiped out (until Alexander at least), so.
+- No assimilation of sC > CC (unless maybe it was later?)
+- Similarly no assimilation of /h/ to anything; it's just here for tonal purposes.
+- the doubly-articulated consonants should *only* come from syncope or from assimilation of CC clusters. The later will only produce tt or ttʰ.
+- Considering cutting the true gemination of RR, honestly, just to lend weight to the fake gemination of CC. (but true geminations like ιππος or μικκος will just get reinterpreted)
+
+- hmm I also like the idea of
+  * δέ as a topic marker > 's
+  * κᾱ as an irrealis marker > 'k? probably find something more interesting. work on this
+  * γα as a... well /h/ is not really helpful so maybe just shove this onto PPs and then forget about it (ιωνγα > yoŋ, τύγα > tu'h, ἐμοῦς > mo'h I guess?)
+  * νυ as a proximal marker > 'n
+  * probably nothing else this is ok
+
+- and
+  * με, σε, ϝηε, σφε > proclitics m' s' wh' pʰ'
+
+that said if we use 's as a topic marker we need to reconsider how our sentences are being formed, because we were already marking topics by word order, and I do like V3
+
+so maybe we need to split one of these ideas off into cyprian or cretan idk
+
+alternatively we could just use them both since 's marks a subject *change*, but to what degree is this actually going to be interesting? idk we can try doing both things anyway
+
+
+actually, there is gemination in spelling of RR, but not in pronunciation
+
+let's fix tones up a little bit
+
+	* ο  is 1
+	* ό  is 5
+	* ώ  is 15
+	* ῶ  is 53
+	* ὸ  is 3
+	* ὼ  is 13
+	* όσ is 5 > 3
+	* ώσ is 15 > 13
+	* ῶσ is 53 > 31
+	* ὸς is 33 > 31
+	* ὼς is 13 > 11
+
+
+therefore
+
+Actually, hang on. We have five tones to start with (ό, ώ, ὸ, ὼ, ῶ) and these can correspond to level, rising, neutral?, entering?, departing. Then we can do the same thing Chinese did and have a tone split. (otoh are there better sources for a tone split?)
+
+	* ο/ὼς	is 11
+	* ὼ/ώσ	is 13
+	* ώ	is 15
+	* ὸς/ῶσ	is 31
+	* ὸ/όσ	is 33
+	* ῶ/όσ	is 53
+	* ό	is 55
+
+
+hmm, I just realized ἵστᾱμι as a copula would be in the middle
+so
+
+ἵσταμαι	 ἵστασαι ἵσταται ἵστασθον  ἱστάμεθα  ἵστασθε  ἵστανται
+ἱσταίμην ἱσταῖο	 ἱσταῖτο ἱσταῖσθον ἱσταίμεθα ἱσταῖσθε ἱσταῖντο
+         ἱστασο  ἱστάσθω ἵστασθον            ἵστασθε  ἱστάσθων
+
+εἴην εἴης εἴη  εἴητον εἴημεν εἴητε εἶεν
+     ἴσθι ἔστω ἔστον         ἔστε  ἔστων
+
+hîtamä hîtasä hîtatä hîtаtʰən hîtametʰ hîtâtʰ hîtəntä
+en es e eton emin et en
+   îtʰ êto êton êt êton
+
+immä issʰä ittä ittʰən immin itt intʰä
+en   es    e    eton   emin  et  en
+     itʰ   eto  eton         et  eton
+
+δύναμαι	δύνασαι δύναται	δύνασθον δυνάμεθα δύνασθε δύνανται
+
+summä   sunsʰä suntä  suntʰon  summetʰ  suntʰ suntʰä
+sunämon sunäs  sunät  sunätʰon sunämetʰ sunät sunäntʰ
+        suns   suntʰo suntʰon           suntʰ suntʰon
+
+optative is going to have to be largely intuition-based—it doesn't get used in if-clauses, but otherwise it may vary.
+
+"Let's swim in the Sea of Racism" uses optative.
+"stress is Latin-style, so it would be Ηομερος > Μερς" doesn't (uses indicative + 'k)
+
+...alternatively, it's just optative, and we discard the greek use of optative with ἄν. I'm not *entirely* sure I want to do this so we'll maybe keep some other formation?
+
+don't tell anyone but ϝυμπς 'snark' is from 'wumpus', because both are things you hunt.
+
+
+More notes I have come up with:
+
+
+— In ει/ι/οι verbs the aorist is in ι (as the present), but in other strong verbs the aorist stem tends to get borrowed from the perfect.
+
+— Initial double consonants are reduplicated doubly, and then a sound law causes the second set to become single. Thus ττενο 'kill' becomes ττετον.
+
+
+
+honestly I think the best thing to do wrt tone would be to ignore China, because China is fucked up, and just have a simple and logical tone system.
+
+
+Having a determiner of some sort (usually the article) is necessary except in some proper names. The distribution is roughly equivalent to using capital letters in English, although you would use the definite article where you would say e.g. "A Grammar of Weyötiss".
+
+---
+13 feb 2018
+
+1. Get rid of /œy/ because this is taking "copying German" a little too far. along the same lines, /au/ doesn't umlaut at all. why? because fuck you that's why.
+
+(actually... /eu/ > /au/ after umlaut applies? that's a better reason why)
+
+2. finally get rid of augment, which should never have been there
+
+3. get rid of the dual as well, I think?
+
+4. Do some reworking of strong verbs. I'd like to make it more English and less obviously copied from ancient. Hence:
+
+(1) Several verbs show only ει/ῐ rather than ει/ῐ/οι. Reflect this. We'd similarly reflect it with υ, but ου and υ turn out identically.
+
+(1b) ε/α/ο by contrast tends to forget the zero grade... but not often enough to make a change worthwhile.
+... actually, on the other hand ρα > ρο is a thing, so maybe we'll let this one split.
+
+(2) ρι > ρε. Remember that ει > ι happened at a very early period, so this affects both of ει/ῐ/οι (> ε/ε/οι > e/e/ö). In all likelihood this also spreads to verbs other than those in r-.
+
+(3) Make sure we don't have any more rules. We have to, don't we?
+
+5. Other verbs also follow ancient too closely. Notably I don't like contract verbs. Let's fold those into vowel-stem verbs; they'll just have a (probably) stemless present. At the same time we're going to fold -ή and -ία as suffixes together into -σις. Terrible, I know :-/
+
+6. I somewhat inconsistently treat initial ses-. Should that be σεσ- or σσ-? I think I like the latter more.
+
+---
+4 March 2018
+
+This probably shouldn't go in Weyötiss, which in many ways is already too kitchen-sinky. But I want to do something with it:
+
+Irrealis nouns. I've actually wanted this feature to exist in english, so in a sentence like
+
+"The Greek myth of Bellerophon, and of his taming of Pegasus and battles with Chimæra among others, were quite important to the Archaic Greek world, and not least to his supposed home of Corinth."
+
+and be able to grammatically instead of vocabularily qualify "home".
+
+If I did this with Weyötiss I would use the particle 'k < κα for this. But I guess I'll have to find something else for this. Maybe Wen.

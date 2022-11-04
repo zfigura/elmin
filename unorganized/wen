@@ -1,3 +1,7 @@
+This language is called "wen", after the word for "kill"—see the 7KS below.
+
+(OLD NOTES)
+
 tiān shēng wànwù yǐ yǎng rén
 heaven brings-forth innumerable [things] to nurture man
 rén wú yī shàn yǐ bào tiān
@@ -10,7 +14,7 @@ gʷʰen. gʷʰen. gʷʰen. gʷʰen. gʷʰen. gʷʰen. gʷʰen.
 
 The defining change of this language is that, unlike any other IE language including the Anatolian branch, sequences of VH always gave V:—including, notably, eh₂ > ē, and eh₃ > ē. Additionally, h₂e and h₃e > e. In effect this was H > h₁.
 
-To distinguish this from just /a/ > /e/, I do however include the usual sources of /a/, that is: R̥ > aR (and R̥̄ > āR, cf. ǵʰm̥mō > ǵʰm̥̄ō > ǵʰāmō), H̥ > a. (yes, strictly speaking the lack of o/ō as a reflex of *h₃ would tip one off, but this phoneme is relatively rare.)
+To distinguish this from just /a/ > /e/, I do however include the usual sources of /a/, that is: R̥ > aR (and R̥̄ > āR, cf. ǵʰm̥mō > ǵʰm̥̄ō > ǵʰāmō), H̥ > a, R̥H > Rā. (yes, strictly speaking the lack of o/ō as a reflex of *h₃ would tip one off, but this phoneme is relatively rare.)
 
 Initially I had decided that this language could conceivably be Anatolian (as Anatolian kept *h₂/h₃ and possibly also *h₁, and these phonemes could be merged after that.) There were a few things I wanted to do, though, that are counter to any IE language. One of these is a sort of modified version of Szemerényi's law, whereby VRH anywhere becomes V:R. Thus *terh₂ > tēr (*torh₂ > tōr, *trh₂ > trā).
 
@@ -20,4 +24,260 @@ diew gēnti nāriton rēn drebonti gāmonam
 gāmonī ne sēm esti entigeldonti diēwm
 wen. wen. wen. wen. wen. wen. wen.
 
-rēks est; so anputlos. rēks sūnum wālnto. tośo kheutoram prēkst: sūnus moy kāñetōt! kheutōr tom rēkam weuqet: yakeswo teywom Werunom. upo rēks teywom werunom sesole nu teywom yaketo. kluthi moy, pter werune! teywos werunos tiwes kamta ekēt. kit wēlsi? sūnum wēlmi. tot estu, weuqet leuqos deywos werunos. nu reks potnī sūnum kekōne.
+(END OLD NOTES)
+
+The etymology of the Greek λᾶας is *lāsh₂s.
+lāsh₂s  > λᾶας
+lāsh₂os > λᾶος
+lāsh₂i  > λᾶι
+lāsh₂n  > λᾶαν
+
+What do IE languages do with intervocalic *s?
+
+Albanian  > r?
+Anatolian > š
+Armenian  > z > Ø?
+Baltic    > s?
+Slavic    > x
+Celtic    > s > Ø?
+Germanic  > z > r (or sometimes s)
+Greek     > h > Ø
+Latin     > r
+Sanskrit  > s
+Tocharian > s?
+
+Some of them keep it, but most don't. Let's be the one that keeps it.
+
+I have no qualms about deleting it before or after a consonant—Hittite did this with laryngeals.
+
+anyway, uh
+
+- bʰ dʰ ǵʰ gʰ gʷʰ > β z ɣʲ ɣ w / #_V, V_V
+- ɣʲ > dʒ / _{e,i}
+- ɣ > g
+- Dʰ restored from CH (maybe other sources?)
+- T D Dʰ > T T D
+- palatalization of ḱ ǵ into č ǰ (centum-style... but I don't really feel like having palatals)
+- č ǰ > ts dz (dʒ is also ǰ)
+- r > d in some conditions
+
+p t ts   (k) kʷ
+  t ts   (k) kʷ
+β z dz/k (k) w
+
+
+but the actual inventory is like
+
+p t ts k kʷ
+b d dz g gʷ
+  s    x
+β z   j  w
+
+the usual example word is *bʰer- > βer- but I don't want to type that so we're going to use *weǵʰ- > wek- instead
+
+1ary	2ary	impv	sbjv	optv
+wekô	wekom	wekô	wekô	wekôym
+wekesi	wekê	wek	wekesî	wekôy
+weketi	weket	weketu	weketî	wekôyt
+wekô	wekô	wekô	wekô	wekôyô
+weketê	weketom	weketom	weketê	wekôytom
+weketê	weketâm	weketâm	weketê	wekôytâm
+wekomô	wekome	wekomê* wekomô	wekôyme
+wekete	wekete	wekete  weketê	wekôyte
+wekonti	wekon	wekontu wekontî	wekôyn
+
+*what is this even from
+
+also some of the endings should be reworked since I'm just working off the enwikt table rn
+
+I don't *really* like the subjunctive aesthetic... we should replace it so the last vowel gets lengthened instead of the penult
+
+I also don't *really* like ôyC...
+
+also kʷ is literally /kw/ so kʷe > kô, we fox now
+
+
+Actually, this language needs some diphthong resolution anyway, I think.
+
+ey ay oy > ê â ô
+ew aw ow > e ô ô
+V:y > V:yi
+V:w > V:we (but êw > êwi)
+
+eR oR aR
+ê  ô  i
+e  ô  u
+
+This actually looks pretty nice.
+
+I think I'm going to shift things around and combine the best parts of the primary and secondary endings:
+
+1/2ary	impv	sbjv	optv
+wekom	wekô	wekô	wekôyim
+wekesi	wek	wekesî	wekôy
+weketi	weketu	weketî	wekôyit
+wekô	wekô	wekô	wekôyô
+weketom	weketom	weketom	wekôyitom
+weketâm	weketâm	weketâm	wekôyitâm
+wekomô	wekomê* wekomô	wekôyime
+wekete	wekete  weketê	wekôyite
+wekon	wekontu wekontî	wekôyin
+
+So now I need to ask—how do I create a new past tense? (Do I even want to? Probably—having no way to give past tense is odd. Although we could just relegate that all to the perfect or something.)
+
+Here's the perfect, by the way:
+
+wewoke
+wewohte
+wewoke
+wewikô
+wewihtom
+wewihtâm
+wewikmô
+wewike
+wewikêd
+
+-i- is the epenthesized vowel.
+
+I don't like -km- but I'm not sure what to do with it. Maybe another -i-? wewikimô? Maybe delete the m entirely (or m > w > Ø); I kind of like that one better.
+
+Also: I could potentially replace the imperative weketu, wekontu with weketo, wekonto.
+
+Let's try out the middle:
+
+1ary	2ary	impv	sbjv	optv
+wekôd	wekô	
+wekeded	wekede	wekeso
+wekêd	wekê	weketo
+wekôd	wekôd
+wekêtô	weketê
+wekêtê	weketê
+wekomôd	wekomed
+wekedô	wekedô	wekedô
+wekerod	wekero	wekero
+
+Not orod because... dissimilation or something, idk.
+
+Some of these look nice and some are really just kinda ugly. I don't know why the middle is this hard honestly. I need to Learn Sanskrit first.
+
+Athematics:
+
+1ary	2ary	impv	sbjv	optv
+lêkwi	lêkam
+lêhî	lêkâ
+lêhti	lêht
+likô	likô
+lihtê	lihtom
+lihtê	lihtam
+likô
+lihte
+likenti
+
+m̥ n̥ > am an
+
+tweaking diphthong resolution: V:RC > VRC, then oy > ay, then VyC > VyiC, VwC > VwiC? also then we get elision of the first vowel probably. redone optative:
+
+wekom	wekayim (> wekyim > wekîm?)
+wekesi	wekayi
+weketi	wekayit
+wekô	wekayô
+weketom	wekayitom
+weketâm	wekayitâm
+wekomô	wekayime
+wekete	wekayite
+wekon	wekayin
+
+êm	syêm (siyêm?)
+esi	syê
+êt	syêt
+sô	sîwe
+tom	sîtom
+tâm	sîtâm
+mô	sîme
+te	sîte
+sen	sîn
+
+ey > ê is earlier and doesn't get affected by this; word-finally or before a vowel remains ey
+
+ts/č are allophones; č occurs after <r l>. presumably they'd be orthographically distinct, but whose alphabet are we borrowing? phoenician probably, at a relatively early point
+
+sr > R
+
+tyewi tsêneti nâriton rêyin drebon gâmonam
+gâmoney ne sêm êti enti-geldon tyêm
+wen wen wen wen wen wen wen
+
+we need to also think about: verbal suffixes
+
+-eskoh > êkom
+
+ḱlewos n̥dʰgʷʰitom
+
+člewô andûtom
+
+*h₃estH- > esdʰ- > êd-
+*pro > prô
+
+*Hoywos > awô
+*duoh₃ > tô
+*treyes > treyê
+*kʷetwores > kôtôrê
+*penkʷe > penkô
+*sweḱs > sôts
+*septm̥ > septam
+*h₃eḱteh₃ > estê
+*h₁newn̥ > newam
+*deḱm̥ > tetsam
+
+contraction rules:
+
+we, wo > ô
+wi, wu > û
+ye > ye
+
+Past prefix e- gets... generalized to other cases? Replaces the primary-secondary distinction, but I'm not sure how to draw the causal arrows.
+
+I'm also not sure how to reflect the perfective/imperfective distinction.
+
+nominal paradigm (following Sihler):
+
+actually, we're going to do 'fuck hittite'
+
+feminine stems:
+
+h₂wl̥h₁neh₂ "wool"
+
+NOM	wâlnê	walnê
+VOC	wâlnê	walnê
+ACC	wâlnêm	walnêm
+INS	wâlnê	walnêβi
+DAT	wâlnê	walnêmô
+ABL	wâlnê	walnêmô
+GEN	wâlnê	?
+LOC	wâlnê	walnêsu
+
+almost all of the singular cases just fold together. I like the basic idea but this is a problem
+
+*nebʰos "cloud"
+
+NOM	neβô	neβô
+VOC	neβô	neβô
+ACC	neβô	neβô
+INS	neβesê	neβêbi
+DAT	neβesê	neβêmô
+ABL	neβesô	neβêmô
+GEN	neβesô	?
+LOC	neβesî	neβêsu
+
+this is much better.kill genitive at least (replace with ablative?), others?
+
+*h₂ster- "star"
+
+NOM	têr	terê
+VOC	ter	terê
+ACC	teram	terâm
+INS	tarê	tarbi
+DAT	tarê	tarmô
+ABL	tarê	tarmô
+
+obl.	tar-	tar-

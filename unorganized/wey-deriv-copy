@@ -1,0 +1,74 @@
+[h1]Diachronics[/h1]
+Boeotian had many points of divergence from Attic. Here is a list:
+[ul][li]No /aː/ > /ɛː/, no movable ν, no weak declension of i-stems, no /ti/ > /si/
+[li]contraction of /aːɔ(ː)/ > /aː/ (rather than /ɔː/), /ae/ > /eː/
+[li]backing of /ra/ > /rɔ/
+[li]lowering of /ri/ > /re/
+[li]raising of prevocalic /e/
+[li]resolution of *čč(ʰ) to /tː/ (rather than /s/)
+[li]assimilation of /zd/ > /dd/ (initial /d/)
+[li]retention of /w/
+[li]/g/ > /j/ after front vowels
+[li]/u/ > /ju/ after coronals
+[li]apocope of prepositions
+[li]nom. -ές/acc. -έ for pl. pronouns
+[li]3rd. decl. dat. pl. -εσσι
+[li]nom. sg. -ᾱ beside -ᾱς
+[li]gen. sg. of masculine a-stems -ᾱο
+[li]gen. pl. of a-stems -ᾱ́ων (but article τᾶν)
+[li]inf. -μεν (both thematic and athematic)
+[li]3pl. -νθ- instead of -ντ-
+[li]3pl. -ᾰν instead of -σᾰν
+[li]imperative 3pl. -νθω, also ἔνθω [ὄντων]
+[li]part. of εἰμί is ἐών (not ὤν)
+[li]perf. act. part. -ων, -οντος
+[li]doubling of aor. -σ- after short vowel
+[li]occasional -ξ- in aorists of -δδω (-ζω) presents
+[li]ἐξ assim. to ἐς before cons., but ἐσς before vowels
+[li]patronymic adjective -ώνδᾱς
+[li]doubling in hypocoristics (nicknames), also hypocoristics in -ει[/ul]
+
+The most interesting feature of Boeotian is its vowel system. Attic Greek had mid vowels /e ɛː o ɔː/, inherited from PIE, and /eː oː/, arising from later lengthening of /e o/. Boeotian, uniquely, had /e eː ɔ ɔː/, an asymmetrical system that contributed to several of the above changes. Additionally, Attic Greek had /u/ > /y/, but Boeotian did not. However, Boeotian did resolve the diphthongs /aj/ and /ɔj/ to /ɛː/ and /œː/ respectively.
+
+With that in mind, here is a rough list of sound changes from classical Boeotian to Weyötiss:
+[ul][li]/mb/, /nd/, /ŋg/ become /m:/, /n:/, /ŋ:/
+[li]/b/ > /w/.
+[li]/ɡ/ > /ɣ/.
+[li]/ɔ/ is lengthened in open syllables. <!--brugmann-->
+[li]Umlaut of /a/ > /ɛ/, /ɔ/ > /œ/, /u/ > /y/ before /i/ or /j/.
+[li]/s/ assimilates to a following liquid /r l m n/.
+[li]Unstressed vowels are shortened in closed syllables.
+[li]Shift of stress to the last long vowel, or, failing that, the antepenultimate syllable—however, stress only falls on the ultima if it also has high tone.
+[li]/uː/ becomes /um/ before a vowel.
+[li]/s/ > /h/ before a consonant.
+[li]/Clj/ > /Cj/
+[li]/j/ is lost after a consonant.
+[li]/eu/ > /au/ between consonants. /ei/ > /ai/ everywhere.
+[li]Epenthesis of /ɔ/ between a consonant and a following liquid.
+[li]/h/ lowers the tone of the preceding mora, causing a split in tones that is especially notable in substantive inflection.
+[li]Syncope of many short, unstressed vowels.
+[li]/h/ is lost.
+[li]/d/ > /s/ > /sʰ/ (chain shift).
+[li]Assimilation of stop clusters, usually to the second element: *kepʰalā́ > *kpʰalā́ > *ppʰalā; kʰtʰṓn > ttʰṓn; pterón > ptrón > ttrón.
+[li]Loss of contrastive length in vowels and consonants.
+[li]Reduction and loss of final unstressed /a/.[/ul]
+
+[h1]Phonology[/h1]
+This produces the following phoneme inventory:
+[code]Μ /m/	Ν /n/	Γ /ŋ/
+Π /p/	Τ /t/	Κ /k/
+Φ /pʰ/	Θ /tʰ/	Ψ /kʰ/
+Ϝ /w/	Σ /s/	Η /h/
+Λ /l/	Ρ /r/	Ͱ /j/
+
+Ι /i/	Υ̨ /y/	Υ /u/
+Ε /e/
+Α̨ /ɛ/	Ο̨ /œ/	Ο /ɔ/
+	Α /a/[/code]
+Note that Ͱ is not Claudian, but rather an old letter meant as a graphical compromise between Ε and Ι. Note also that Ψ represents /kʰ/ rather than /ps/. Digraphs for /ks/ and /ps/ do not exist. Dipthongs are ΑΙ /ai/, ΑΥ /au/. The ogonek, which functions as an umlaut, is an approximation of a tail-like diacritic which developed from a reduced form of ε.
+
+Even in classical times, the Boeotian alphabet lacked /z/, and therefore lacked Ζ. As a consequence of this, the letter was never borrowed into Latin, and thus was never used in English. Greek loans of course would never have had /z/, but rather /dː/, so we would use e.g. [i]doölogical[/i] or [i]baptidded[/i]. Native words would probably be spelled with ⟨s⟩, as [i]mase[/i], [i]rase[/i]. A more interesting question is what other languages would do—perhaps German would replace it with ⟨ts⟩, etc. I leave this as an exercise for the reader.
+
+A more interesting problem is, however, Y. The letter was borrowed into Latin because the sound it represented, /y/, was unknown there. But since Υ represents /u/ in classical Boeotian, there would have been no need to borrow the letter, and therefore it would not exist in English or other languages. Again, Greek loans would have had /u/, so [i]rhuthm[/i], [i]hupothesis[/i]. English final -y would probably be spelled with -ie instead: [i]happie[/i], [i]quicklie[/i], [i]mie[/i]. Consonantal Y, on the other hand, competed in Middle English with ȝ (yogh), and so it is likely that yogh would take the place thereof in Modern English: [i]ȝes[/i], [i]plaȝ[/i], [i]ȝellow[/i].
+
+Note also that many Greek-derived words would also be different: [i]damocrocie[/i] (democracy), [i]mettoderm[/i] (mesoderm), [i]diontology[/i] (deontology), [i]voeconomie[/i] (economy), [i]Artamis[/i] (Artemis).
