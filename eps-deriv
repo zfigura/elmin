@@ -126,8 +126,6 @@ Changes for Taol:
 - diphthongs in -i epenthesize a glottal stop (tlaytʔa > tlaʔitʔa > tlāitha).
   this is probably early and possibly shared
 
-- t > š / _{ʲ, i, u} unless blocked by /n/
-
 - loss of glottal stop and compensatory lengthening of preceding vowels,
   including in the Szemerényi position (VRH > V:R). Does this precede or follow
   the next rule? Adjust the generator probably since we *should* have more words
@@ -135,6 +133,8 @@ Changes for Taol:
   it right.
 
 - m= n= R= l= > um in ɑr ɑl
+
+- t > š / _{ʲ, i, u} unless blocked by /n/
 
 - voicing of C in VCRV [under some conditions?] Hence aplirʔ > aplēs > ablēs,
   akʲr-uʔ > acró > agró. However atʲlur > atlos > atlas. Is this a later
