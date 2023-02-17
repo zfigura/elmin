@@ -20,8 +20,16 @@ THINGS WE KNOW PROTO-* HAS:
     have "Memorizôn". And Baerloni. Still worth thinking about.]
 
 * What phonotactics? [Do a North American approach to this, *some* combinations
-  are avoided or result in metathesis/elision/epenthesis. E.g. CʔVʔC is avoided
-  but I don't know what happens to it.]
+  are avoided or result in metathesis/elision/epenthesis.]
+
+  - CʔVʔC does not appear in roots. It can potentially appear in derived words;
+    some descendants prefer to avoid it though. Taol possibly has no objection
+    to it.
+
+  - CʔR is invalid and I think we actually lose R in this case. R does not
+    include nasals though; CʔN is just fine.
+
+  - ʔNʔ is invalid and becomes Nʔ.
 
 * Originally I put /s/ in it but I don't think it's necessary and I'd rather
   avoid it.
@@ -146,3 +154,6 @@ Changes for Taol:
 - grassman's law (CʰVCʰ > CVCʰ)
 
 - long vowels shorten before another long vowel
+
+- Most instances of CN end up dropping the nasal I think. Maotic does not like
+  that cluster. (Taol more generally might be fine with it.) bn might be fine?
