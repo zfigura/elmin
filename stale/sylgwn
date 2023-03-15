@@ -1,0 +1,48 @@
+[Very stale!]
+
+Suppose Elmin's vowel system was actually a result of ATR: so /e V u/ with ATR, /E a o/ without, and /i 1/ are neutral. This probably isn't how ATR works, but I'm rolling with it anyway.
+
+NC > C. NN > N' (the ' marks fortis, idk what it is.)
+
+ATR correlates with breathy voice, so following stops become breathy-voiced > devoiced. This probably isn't how things work either, but I am beyond caring right now.
+
+I think the vowel system right now does a Tocharian. Perhaps even identically, except that I also want to pull a labialization contrast out of there.
+
+Syncope affects every other syllable; the stressed syllable is the one that is not syncoped.
+
+NC > CC, so now we have /p p: p:' b b: b:'/. The outcome of this varies per position, however:
+/p p: p:' b b: b:'/ > /p b b f pʼ pʼ/
+/t t: t:' d d: d:'/ > /t t t d tʼ tʼ/
+/k k: k:' g g: g:'/ > /ĉ k q ĵ kʼ qʼ/
+This is about what Proto-Sylgwn should look like - a bastardized NWC. It's not perfect yet, though. (Where does *g come from? It does need to exist.)
+
+*túinde > tʷit
+*bearanna > bʲana
+*mairellëonda > midɮʲawad
+*tumbendandur > tʷpʲatadʷ
+*banneanhemmuean > baqʼʲamʷyän
+
+
+gN [ɰN] > ɢN > ɢ (or q)
+/k k: k:' g g: g:'/ > /ĉ č k ĵ ǰ kʼ/ (idk the exact identities, but ĉ was probably a sibilant and č an affricate)
+/q q: q:' ɢ ɢ: ɢ:'/ > /q q qˤ g kʼ kʼ/
+
+the middle stage of r r' l l' is r ṛ l ɬ, kind of
+
+Cl' > tɬ etc. Cl > tš, Cr' > ṭṣ, Cr > ts
+r'C > ṭ. rC > ṭ near high vowels, otherwise > t. l(')C > šC
+r(')l > l/ḷ as above, rl' > ɬ, r'l' > ɬ̣
+lr(') > r, otherwise as reverse
+
+Also, fixing up the vowel system a bit:
+
+A better system of pairs is (i : ɨ) :: (y : u) :: (e : o) :: (ɛ : ɔ), with /a/ neutral. Thus I can just say that consonants were devoiced before the latter pair (the inverse happened in Oghuz). /a/ was back [ɑ], so also devoicing there. i/ɨ > ʲä, y/u > ʷä, e/o > ä, ɛ/ɔ > e, a > a (but probably e > a later except in some dialect or sth.) Thus:
+
+túinde > *tʷä́idä > tʷid
+bearanna > *bésaNa > ban (with irregular syncope of *a)
+mairellëonda > *mairäɬä́äda > maiɬad (maiɬd?)
+tumbendandur > *tʷäbä́dätʷär > tʷäbatsʷ (tt > t)
+banneanhemmuean > *paNeŊä́Mʷäen > paŋamʷ
+
+regmannulluillear > *räqaNʷä́LʷäiLer > qanʷaɬʷiɬ
+giellammeramean > *gʲäLaMä́ramen > dɮʲamam

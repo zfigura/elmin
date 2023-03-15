@@ -1,0 +1,51 @@
+[h1]Word order[/h1]
+
+Weyötiss may be described as an SOV language, but this is not quite accurate. The basic structure of a Weyötiss sentence is:
+
+subject - object/focus - verb - remainder
+
+The subject always comes first. The object of the verb may come second, or may be replaced with a more salient word or phrase. The verb always comes third, and precedes any other elements in the sentence.
+
+From this basic pattern there are several deviations:
+
+[ul][li]Imperative sentences. A verb in the imperative, or in the optative with imperative sense, comes first. The subject is always omitted (even in the third person), and the object always comes after the verb. Hence:
+[g swim-PRES-OPT-1PL]Νεϝο̨μιν[/g] [g in]ιν[/g] [g F.DAT.SG]τα̨[/g] [g sea]θαλαττ[/g] [g F.DAT.SG]τα̨[/g] [g M.GEN.SG]το[/g] [g racism]ηονιμμς.[/g]
+[i]Let's swim in the sea of racism.[/i]
+
+[li]Changes in valency. An object (which may be dative or accusative) may be promoted to the subject of the sentence, forming the equivalent of a passive. The object retains its case; the existing nominative of the sentence is always omitted. The verb takes the third-person, but agrees in number with the subject:
+[g F.ACC.PL]Τα[/g] [g banana]μος[/g] [g not-yet]υπο[/g] [g ship_in-VN]ινσηολα[/g] [g do.AOR-3PL]εθον.[/g]
+[i]The bananas haven't been shipped in yet.[/i]
+
+[li]Particles. The interrogative partical [b]αρ[/b] always stands at the beginning of a sentence, before the subject. It does not affect the order of the rest of the sentence. Enclitic particles such as [b]-'ν[/b], [b]-'ς[/b], [b]-κι[/b], [b]-μο[/b] are treated as part of the noun clause to which they are attached and do not affect word order.
+
+[li] The negative adverb [b]μα̨[/b], when it directly modifies the verb, usually precedes it, and so takes the place of the verb's object.
+[/ul]
+
+There are two valid formations for adjectives:
+
+[g F.NOM.SG]α[/g] [g red-F]ρυθορ[/g] [g ball]φα̨ρ[/g]
+
+and
+
+[g F.NOM.SG]α[/g] [g ball]φα̨ρ[/g] [g F.NOM.SG]α[/g] [g red-F]ρυθορ[/g]
+
+[h1]Predicate clauses[/h1]
+The predicate clause is a grammatical formation with various purposes. It is similar to an absolute construction, but has a wider range of usage and of formation. The predicate clause consists of an adjective, which is most often a compound, associated with a noun, and generally implies intention or result. Thus:
+
+[g 1SG.NOM]Ιογ[/g] [g F.GEN.SG]τα[/g] [g not-wife-having=2SG]αϝανα̨κο̨χτο[/g] [g laugh_at.VN]κατηελς[/g] [g do-PRES.1SG]τθιμ,[/g] [g 2SG.NOM]τυη[/g] [g for]επ[/g] [g 2SG.DAT]το̨[/g] [g food-cooking-M]σηιτοποπς.[/g]
+[i]I am laughing at your wifelessness, as a result you are cooking your own food.[/i]
+
+A predicate adjective may also refer to a noun earlier in the sentence, in which case it is usually not separated with commas:
+
+[g M.NOM.SG]Ο[/g] [g heaven]ορανς[/g] [g N.ACC.PL]τα[/g] [g not-countable-N]ανα̨ρθομον[/g] [g thing]ϝερρον[/g] [g have.AOR-3SG]ͱεν[/g] [g man-rearing-N]ανθροποτροφον.[/g]
+[i]Heaven brings forth innumerable things to nurture man.[/i]
+
+This can also be written more clearly as
+
+[g M.NOM.SG]Ο[/g] [g heaven]ορανς[/g] [g N.ACC.PL]τα[/g] [g not-countable-N]ανα̨ρθομον[/g] [g thing]ϝερρον[/g] [g have.AOR-3SG]ͱεν,[/g] [g N.ACC.PL]τα[/g] [g thing]ϝερρον[/g] [g man-rearing-N]ανθροποτροφον.[/g]
+
+which is perfectly valid Weyötiss, but usually dispreferred to avoid repetition of [b]τα ϝερρον[/b].
+
+The difference, in this case, between a predicate clause and simple adjectival usage (i.e. [b]τα ϝερρον τα ανθροποτροφον[/b] or [b]τα ανθροποτροφον ϝερρον[/b]) is that the former implies something closer to potential or future action, i.e. things which [i]will[/i] or [i]can[/i] nurture man, whereas the latter implies a present and or ongoing property, i.e. things which [i]are[/i] or [i]have been[/i] nurturing man.
+
+[u]more should be said here[/u]
