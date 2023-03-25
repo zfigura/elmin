@@ -25,8 +25,8 @@ medials = \
         'a': 50,
         'i': 50,
         'u': 35,
-        'o': 25,
-        'e': 15,
+        'ə': 30,
+        'e': 30,
 }
 
 word = ''
@@ -42,16 +42,17 @@ for i in range(randrange(2, 4)):
         word += select(initials) + select(medials)
 
 print(word)
-word = word.replace('o','')
+word = word.replace('ə','')
 word = re.sub('[ptkq]l','tɬ',word)
+word = re.sub('r([tkqnŋl])',r'\1.',word)
+word = re.sub('([tkqnŋl])r',r'\1.',word)
+word = re.sub('([ui])([tkqnŋl])',r'\1\2.',word)
+word = re.sub('^[aeiou]','',word)
 word = word.replace('p','')
-word = re.sub('r([tkqnŋl])',r'R\1',word)
-word = re.sub('([tkqnŋl])r',r'R\1',word)
-word = re.sub('([ui])([tkqnŋl])',r'\1R\2',word)
-word = re.sub('([tkqnŋl])([ui])',r'R\1\2',word)
 word = re.sub('(^|[aeiou])re',r'\1ne',word)
-word = re.sub('(^|[aeiou])r($|[iaou])',r'\1Rn\2',word)
+word = re.sub('(^|[aeiou])r($|[iaou])',r'\1n.\2',word)
 word = re.sub('l($|[tkqmnŋ])',r'n\1',word)
+word = word.replace('r','')
 
 # replace first /e/ with /a/
 for i in range(len(word)):
