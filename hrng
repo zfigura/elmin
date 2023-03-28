@@ -47,6 +47,66 @@ m n ɳ ŋ ŋ̨ [ɴ ɴ̨]
 <twabs> -qaya 1SG
 <twabs> -wi 3SG.OBJ
 
+=========
+PHONOLOGY
+=========
+
+Not changed from the above.
+
+m n ɳ ŋ ŋ̨ [ɴ ɴ̨]
+  t ʈ k k̨ q q̨
+  [tɬ]
+w l ɭ y
+
+The vowels are /a e i o u/, diphthongs /oi au eu/, but the existence of /i u/ is
+a bit questionable. Before a vowel they become -ay- -ow-, suggesting that that
+is their underlying representation. [Maybe loanwords break this, though.]
+
+Synchronically tɬ isn't a phoneme. (I kind of want to change this, but I'm not
+going to redo the translation or lexicon at this state.)
+
+Retroflicization is henceforth marked with a dot (below, except for ŋ q since
+they have a descender). Since that doesn't render nicely for everything, and is
+a bit of a pain to type, it's also marked with a dot following the letter.
+
+Some notes, though:
+
+* In practice both of /l ḷ/ have merged with [w] in central Yangharad dialects.
+  Probably some minor outlying dialects retain the old pronunciation. (What
+  about tɬ? Is it too insane to have [tɬ] but no [l]? Does it become /f/?)
+
+* Final /a e/ are usually not pronounced if the word has more than two
+  syllables.
+
+* There is a decent amount of synchrony. Here are some of the rules:
+
+  - if one member of a cluster is retroflicized, both are (exc. /m/ of course)
+
+  - stop + l > tɬ.
+
+  - However, stop + l > ṭṭ if retroflicized.
+
+  - stop1 + stop2 > stop2 geminate
+
+  - l + stop > n + stop
+
+  - nasals assimilate in general
+
+  - n + w > m (not geminate!)
+
+  - stop + nasal metathesizes
+
+  - stop + y is left alone
+
+  - others are not worked out
+
+  - vowel hiatus is generally fine, but ee dissimilates to ae. -aa- and -oo- do
+    not dissimilate. -oo- is pronounced with a medial -w- though.
+
+  - i + vowel or u + vowel is at least spelled -ayV- or -owV-. Note though that
+    some words have -iyV-, -uwV-, -iwV-, -uyV-; underlyingly this is -yy-, -ww-,
+    -yw-, -wy-.
+
 ============
 MORPHOSYNTAX
 ============
@@ -88,6 +148,22 @@ The personal pronouns are:
 
 1sg: yoŋ NOM/OBJ. Passive constructions with 1SG (and 2SG?) can't really be
 done.
+
+Case endings for normal nouns or adjectives (I deleted these at some point and
+I'm not sure why. I'd rather thave them back especially since I think the words
+could afford to be longer for aesthetic purposes.):
+
+        ANIM   INAN
+ - NOM  -(e)we -eu
+ - OBJ  -Ø     -e
+ - ERG  -ka    -e
+ - PASS -ṭa    -eṭṭa(ye)
+
+Those nominative and passive endings probably have complicated implications
+about diachronic stress patterns, which I am going to just neglect to address.
+
+I think that inanimates always end in -e. Adjectives take animate or inanimate
+endings, though, and in that case the -e- actually replaces the final vowel.
 
 Verbal forms are:
 
@@ -153,16 +229,6 @@ SYNTAX
 
 * Broadly pro-drop.
 
-===========
-SYNCHRONICS
-===========
-
-* CVj, CVw > Ci, Cu
-
-* l > w
-
-* delete final /e a/ if the word has more than two syllables? this is probably synchronic
-
 * there is not much of a preposition/verb distinction. there are a few
   positional verbs which are basically also prepositions: yiwa "be on top of",
   ṭa "be behind", ayao "be under", weṭeṭo "be around, enclose", tame "move
@@ -173,10 +239,8 @@ SYNCHRONICS
 
 ---
 
-<this may need redoing to match the slightly-reworked morphosyntax>
-
 ṭeṇ ŋ.o kemimatatato n.ewe ŋ.o naṭeṭṭo keḷeḷ ṇiwe naŋa?
-why that 3A.OBJ-3A.ERG-raise-AOR child that lack-AOR mother and father
+why that 3A.OBJ-3A.ERG-raise-AOR child-OBJ that lack-AOR mother-OBJ and father-OBJ
 
 	* there is not a strong difference between "ten" and "ten ŋo". I think
           the latter is a bit older
@@ -187,5 +251,125 @@ why that 3A.OBJ-3A.ERG-raise-AOR child that lack-AOR mother and father
           redundantly with object nouns, but it's probably close, such that it's
           sometimes done
 
+	* the use of the aorist would be a bit odd. in this case it fits because
+          the speaker wants to give a strong framing of, y'know, "the system", a
+          gnome quality of what they do, by nature.
+
+	* the use of the aorist in "lack" is... also perhaps not the most usual,
+          but I think it's there partly because the sentence already had one,
+          or possibly just because a child lacks its parents for, well, most of
+          its life
+
 ṭeṇ? ṭeṇ keŋ.o mat ŋ.o witeṭoto?
-why any thing that 3A.ERG-do-AOR?
+why any thing.OBJ that 3A.ERG-do-AOR?
+
+ŋen.a, wot.a, ŋen.a mat ŋ.o n.aŋelok.ato
+it's, well, it's thing.OBJ that unclear-mind-AOR
+
+	* ŋeṇa is an odd particle. I translate it as "it's" or "there's". I
+          think historically it was a verb, but it doesn't act like one anymore.
+          It basically always is word-initial. It could kind of be translated as
+          simply "there", but it has a bit more of a force of "it exists".
+          Yangharad doesn't have a copula quite as eroded as many languages, but
+          ŋeṇa kind of fills that gap in some ways by providing a way to soften
+          another verb into "it's there" rather than putting the focus on the
+          verb's active or stative meaning.
+
+          In older generations, such as this, I think ŋeṇa *does* act a bit more
+          like a verb, at least in that it's regularly followed by a noun, and
+          if the noun needs further specification then it'll be followed by ŋo.
+          But somewhere between old and new ŋo just ends up being left out.
+
+	* this is a bit interesting. I'm not sure how lexical vs grammatical
+          "mat" is, but even if it is more lexical, I think this is the right
+          way to translate it. the source probably means "it's insanity" as
+          "the whole of what they do is insanity" but I don't think it's wrong
+          for it to be "this specific thing is insanity".
+
+          I specifically translated this phrasing, instead of the simpler "ŋeṇa
+          ṇaŋeloḳa" to try to capture the difference between "it's insane" and
+          "it's insanity".
+
+	* I never thought about this before but I think Yangharad has some
+          morphological derivation going on. Not like * does by any means
+          though. I'm debating between giving that verbalizer a suffix (-yo-
+          mb?) and leaving it as is. It's probably a recent process though so if
+          it's a suffix it should be from clear analogy.
+
+wot.a qot.en.e, maqeq.eqaet.e keṇṭaek.oneqaweq.ato
+but however, system-ERG 3A.OBJ-3I.ERG-for-behave-AOR
+
+	* A maqeqeqaete is a water-engine. Possibly it's a simple mechanical
+          water-wheel, but probably it has some magical aspect that I should
+          think about and work out when I'm not so tired. Metaphorically though
+          it can easily mean "device, machine", and hence "system" as here.
+
+	* In fact the metaphorical use is so strong that instead of tame "turn",
+          the word qaweq.a "flow, behave" is used instead.
+
+	* I actually don't know what the original intent of the benefactive is:
+          either "works fine for them" or "works for" as in English one person
+          "works for" another, and Yangharad actually distinguishes the two
+          (it's close enough to the distinction between "eḳone" and "weyo"). I
+          suspect it's the former, though, because the next sentence seeks to
+          explain why, whereas I would expect the latter to be presented as a
+          gnomic truth without explanation.
+
+	* Unlike English (though not that unlike English), and perhaps more like
+          Greek, the fact that the preposition is glommed onto the verb doesn't
+          so much affect the base meaning of the verb. It's just how
+          prepositions work in Yangharad. (What if it was a transitive verb like
+          "tell him for me"? Well, you'd have to phrase it differently.)
+
+	* The subject is redundant but I think that subjects are always
+          specified when the object pronoun is glommed onto the verb.
+
+	* Yangharad is perfectly fine with hiatus, but I don't think it much
+          likes hiatus of the same vowel? Maybe -aa- is fine but -ee- isn't.
+          -ee- becomes -ae-. -oo- might also be fine, but in practice is
+          probably pronounced [owo].
+
+	* Just realized that the rule above is that pronouns go before the last
+          verb in a compound (which would yield ek.oneken.t.eqaweq.ato). I'm not
+          sure if I like that rule, I might reverse it.
+
+t.en.ali kawataoq.a ŋen.a lok.aka et.e yiwato,
+because how-many there's person-ERG ground-OBJ be_above-AOR,
+
+n.aweoq.a kaqet.t.aye naliyet.t.aye wito k.attet.t.aye wi
+so-many hand-PASS that-PASS fill-AOR of-PASS 3A-OBJ
+
+	* Translating "own" by instead adding a demonstrative for emphasis.
+
+	* Uh... we still need a way to translate "their" though. In fact in
+          general we need a way to express possessives or relation though.
+          Should we retcon a genitive into the language after all? A
+          preposition? Are there other ways to do this I don't know?
+
+          WALS chapter 60 gives another idea (Jewish Arbel Aramaic) which is to
+          use a preposition, but specifically to make it the same as the
+          relative preposition. This is very rare, though.
+
+          Worth noting that Maotic collapses genitives and adjectives. I think
+          that this may be the *nascent* answer (again, in general Yangharad is
+          becoming more compounding / polysynthetic anyway) but it's not the old
+          approach.
+
+          I don't think the old approach is a genitive case. I don't want to add
+          another case and I don't think that a case would be easily lost, not
+          when in the past few hundred years Yangharad gained a case. I think it
+          should be something separate from the preposition *and* separate from
+          a bare noun. We could use a his-genitive but I don't quite like this
+          either.
+
+          I think the right answer is an adposition/conjunction (basically, one
+          of the few true ones this language has). One that's not ŋo. This is a
+          very common cross-linguistic way to do it. It shouldn't be a case—it
+          doesn't participate in agreement. In fact, apparently Egyptian Arabic
+          has an adposition which itself agrees with its head noun, which I
+          like. So let's do that.
+
+	  What case is the possessor in? Citation form, i.e. OBJ.
+
+witan.q.aŋemataneto
+3A.ERG-not-unclear-create-AOR
