@@ -1,14 +1,14 @@
 THINGS WE KNOW PROTO-* HAS:
 ---------------------------
 
-* The glottal-stop
+* The glottal-stop. Realistically this probably is something like /ʔ ~ h/
 
 * Palatalization, I think on all or most consonants.
 
   - Consonants are always palatal before /i/ but may not necessarily be palatal
     after /i/.
 
-  - The glottal stop can, I think, be palatalized.
+  - Palatalized glottal stop exists in free variation with /j/.
 
 * One nasal.
 
@@ -29,7 +29,8 @@ THINGS WE KNOW PROTO-* HAS:
   - CʔR is invalid and I think we actually lose R in this case. R does not
     include nasals though; CʔN is just fine.
 
-  - ʔNʔ is invalid and becomes Nʔ.
+  - ʔNC is invalid and becomes NC. Other CNC gains a vowel instead. This is a
+    *synchronic* rule so it applies before later vowel insertion like Taol's.
 
 * Originally I put /s/ in it but I don't think it's necessary and I'd rather
   avoid it.
@@ -57,6 +58,10 @@ THINGS WE KNOW PROTO-* HAS:
   the vowel system as it is. M-T leaves the vowel system alone (probably?) but
   also loses palatalization mostly. Kyndae keeps palatalization (well, kinda),
   dunno what it does to vowels. I dunno about *fish either.
+
+* Stress? If P* has stress it doesn't matter or is word-initial. Taol doesn't
+  care. PMT does, possibly *fruit as well. Geonian develops a different stress
+  accent. Kyndae has a strong stress accent and I don't know what it looks like.
 
 MISC NOTES:
 -----------
