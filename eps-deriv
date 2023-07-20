@@ -12,12 +12,32 @@ THINGS WE KNOW PROTO-* HAS:
 
 * One nasal.
 
-  - Taol and M-T add a POA distinction to this nasal. *fruit turns it into
-    nasalized vowels and regains nasals from voiced consonants. Kyndae may very
-    well keep it verbatim. Geonian might do something insane like deleting the
-    nasal in initials but keeping it in finals. [We have a Geonian name
-    "Zûtsimazôn" but that could be m < mp or something? Oh but then again we
-    have "Memorizôn". And Baerloni. Still worth thinking about.]
+  I don't know what the phonology actually is in P*. Cross-linguistically,
+  having one phonemic nasal is very weird (weirder than having zero, even).
+  Having that one phonemic nasal be /n/ is weirder. Having p/b + n without m is
+  almost unheard of—Arapaho is the exception.
+
+  - Taol adds a POA distinction to this nasal.
+
+  - M-T... I don't know.
+
+  - *fruit loses it, nasalizing surrounding vowels. Usually it then regains
+    nasals from voiced consonants. Most Artokarp varities eventually lose the
+    nasal vowels too (Marã is an exception). Varieties that probably don't get
+    nasals back include Dragonfruit, possibly also Kep'el but I'm not sure about
+    that one.
+
+  - Kyndae mostly keeps it verbatim, but does regain /m/ from assimilation in
+    clusters, and sometimes regains a phonemic distinction thereby when the
+    neighbouring consonant is lost. (Final *np > mp > m, but *pn > *pm > m also
+    exists.)
+
+  - Qoqq loses nasals and doesn't get them back.
+
+  - Geonian might do something insane like deleting the nasal in initials but
+    keeping it in finals. [We have a Geonian name "Zûtsimazôn" but that could be
+    m < mp or something? Oh but then again we have "Memorizôn". And Baerloni.
+    Still worth thinking about.]
 
 * What phonotactics? [Do a North American approach to this, *some* combinations
   are avoided or result in metathesis/elision/epenthesis.]
@@ -50,6 +70,10 @@ THINGS WE KNOW PROTO-* HAS:
     uvular obstruents as described above. Although I do kind of like the idea of
     this phoneme inexplicably yielding /g/ in some places. Maybe I just make it
     ʁ. I'll write it as capital *G for now. And kind of ad-hoc its phonotactics.
+
+    Expanding on this—I think the most interesting thing to do is for this to
+    *only* show up in Taol, and for *G to yield zero anywhere else. I already
+    put it in Kyndae as ŋ, but I'd rather revert that. Kyndae doesn't need ŋ.
 
 * Three vowels /a i u/, BUT strong front/back allophony based on palatalization.
   In fact, I think what we basically have is /a~ɑ i~ɯ y~u/ aka Triangular
