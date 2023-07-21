@@ -17,7 +17,18 @@ THINGS WE KNOW PROTO-* HAS:
   Having that one phonemic nasal be /n/ is weirder. Having p/b + n without m is
   almost unheard of—Arapaho is the exception.
 
-  - Taol adds a POA distinction to this nasal.
+  To make this mildly less weird, and I think more interesting, /w/ has
+  allophony to /m/ in certain places—specifically before a consonant, where it
+  ends up assimilating anyway and is thus indistinguishable from /n/. (So the
+  only real effect here is that coda -w is not a thing). Final [m] is also a
+  possibility, but I'm less sure about this one.
+
+  I did think about the possibility of making this nasal /m/ instead of /n/,
+  which is not impossible. The one argument I have against it right now is that
+  Kyndae currently has intervocalic n > h and I'd like to keep that.
+
+  - Taol converts n > m before rounded vowels, and also dissimilation. See
+    below.
 
   - M-T... I don't know.
 
@@ -152,10 +163,20 @@ Changes for Taol:
   * Shared with M-T. That said, I need to figure out the contrast here. List of
     words includes: agróme, alóné, elmin, in, namó, émaor, melith, maot (Maoth,
     Maotel). Also probably-Taol names Aman, Aspen, and probably-M-T names
-    Mentos, Málat. My original condition was /m/ word-initially and before /n/
-    but that's violated by agróme (but that could be a compound?), namó, and
-    émaor. So perhaps the condition should be /m/ word-initially and before back
-    vowels, which I think actually fits perfectly? And is a lot more reasonable.
+    Mentos, Málat.
+
+    agróme vs. alóné is problematic. One of those is going to have to be a
+    compound or suffix, though I don't know why. If we assert that ɑ is actually
+    distinctly rounded (ɒ or ɔ, I don't know), we can argue than n > m before a
+    rounded vowel. That leaves agróme, elmin, melith, and potentially some place
+    names. melith could easily be a Kyndae loan; elmin is I think also a toponym
+    and/or ethnonym. agróme needs to be inherited (but how does it have final
+    -e? Compare perhaps fír ~ fíre-car; the same thing may be happening here.
+    Alternatively it's an error for agrómé), possibly -m- derives from original
+    -mp-.
+
+    The other original thought was dissimilation of m > n before n, and I'm
+    inclined to keep this, whether it explains elmin or not.
 
 - vowels /a i u/ lowered to /ɑ e o/ exc. before palatals. note that /aj ij/ stay
   /aj i:/ but /uj/ becomes /oj/ just because dissimilation
