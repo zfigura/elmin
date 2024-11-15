@@ -47,61 +47,6 @@ m n ɳ ŋ ŋ̨ [ɴ ɴ̨]
 <twabs> -qaya 1SG
 <twabs> -wi 3SG.OBJ
 
----
-
-
-Let's just write out some sentences:
-
-tatlewiqaya "I drove them"
-
-- tatle "drive"
-- wi 3SG.OBJ
-- qaya 1SG
-
-tatɬeyoɴqaya "they drove me"
-
-- yoŋ 3SG.NOM
-
-ḳotaqau "I spoke"
-
-- ḳota "speak"
-- qau 1SG (alternate form)
-
-ṭewaṭaenema "they mend it"
-
-- ṭe 3SG.N.OBJ
-- waṭae "mend"
-- nema 3SG.ERG
-
-mengeq̣oṭe "it broke"
-
-- mengeq̣o "break"
-
-* verb serialization via compounding, such that it allows verbs to become
-  transitive. not unlike greek or english but with other verbs instead of
-  prepositions
-
-ṭowaḳotawiḳama "you said to him"
-
-- ṭowa "face <verb>"
-- ḳama 2SG.NOM
-
-
-so the basic idea is that we have NOM, ERG, OBJ cases, split ergativity based on
-presence of a 1st or 2nd person.
-
-no, we need a fourth case. the fourth case is passive. now I like this
-
-waṭaeṭṭaye "it was mended"
-
-- ṭṭa(ye) 3SG.N.PASS
-
----
-
-* ɽ > ɳ, so that explains the loss of ɽ
-
-* SVO but with some freedom to front
-
 ============
 MORPHOSYNTAX
 ============
@@ -150,7 +95,7 @@ Verbal forms are:
 
 * -qaqaya iterative;
 
-* -to "gnomic" (don't like this ending much we should change it)
+* -to "gnomic"
 
 * -leq.a optative
 
@@ -167,18 +112,31 @@ periphrasis that got elided. In our case, Hrng is already known to compound
 verbs aggressively, and this is no exception. The verb for the past tense is the
 one that got elided, but there are some others:
 
-* kena "want to do"
+* tan "want to do"
 
-* qeḷo "stop doing"
+* teṭo "stop doing"
 
 * wane "do repeatedly, keep doing"
 
-* ??? (at least 1 more)
+* ṇet "can do" ~ "will do"
 
 When verbs are compounded, personal pronouns go right before the last verb.
 
-FIXME: Redo some of these? I want to show off some consonant synchrony so we
-should probably have some things end in -t or -C
+Hence the order of a verb is:
+
+  OBJ PRONOUN - NOM/ERG PRONOUN - root - ENDING
+
+or, when a grammaticalized verb is used:
+
+  root - OBJ PRONOUN - NOM/ERG PRONOUN - (manner verb) - ENDING
+
+Other compounds however may go in front:
+
+  compound (e.g. direction) - PRONOUNS - root - ENDING
+
+or even
+
+  direction - root - PRONOUNS - (manner verb) - ENDING
 
 ======
 SYNTAX
@@ -191,12 +149,18 @@ SYNTAX
   does prepositions yet actually so can't translate this yet) but this competes
   with the older method.
 
+* Broadly SVO but with some freedom to front.
+
+* Broadly pro-drop.
+
 ===========
 SYNCHRONICS
 ===========
 
 * CVj, CVw > Ci, Cu
+
 * l > w
+
 * delete final /e a/ if the word has more than two syllables? this is probably synchronic
 
 * there is not much of a preposition/verb distinction. there are a few
@@ -207,33 +171,21 @@ SYNCHRONICS
   lexical metaphor: eḳone "count" -> "about, relating to", sometimes benefactive
   "for"; weyo "give" -> "to, towards", sometimes benefactive "for".
 
-* What do I translate? I'm kind of conflicted here. To make a good post I should
-  be inventing a new text, ideally one that reveals something about the cultural
-  context of Hrng. But part of the thing right now is that I don't really want
-  to add any context to this language—no siblings, no parent, no conworlding,
-  and just enough diachronics to make the words look less bad.
-
 ---
 
 <this may need redoing to match the slightly-reworked morphosyntax>
 
-ṭeṇ ṇgo wimatatanema ṇgo naṭeṭ keḷeḷ ṇiwe nanga?
-why that 3SG.OBJ-raise-3SG.ERG that lack mother and father
+ṭeṇ ŋ.o kemimatatato n.ewe ŋ.o naṭeṭṭo keḷeḷ ṇiwe naŋa?
+why that 3A.OBJ-3A.ERG-raise-AOR child that lack-AOR mother and father
 
-ṭeṇ? ṭeṇ
+	* there is not a strong difference between "ten" and "ten ŋo". I think
+          the latter is a bit older
 
+	* synchronic -nw- > -m-
 
---
+	* yangharad is not *quite* at the stage where pronouns are given
+          redundantly with object nouns, but it's probably close, such that it's
+          sometimes done
 
-hrng publications:
-
-Ruecán (Yangharad 1) — phonological survey
-Ólófar (Yangharad 1) — terraced farming methods
-Ólófar (Yangharad 2) — cultural survey
-Ólófar (Yangharad 5) — historical study
-Ólófar (Agrócár 10) —
-Suémin (Dalia 13) —
-Ólúcan (Dalia 70)
-Gant (Agrócár 9) — something + historical summary
-Amíol (Agrócár 1) — historical summary
-Gânel
+ṭeṇ? ṭeṇ keŋ.o mat ŋ.o witeṭoto?
+why any thing that 3A.ERG-do-AOR?
