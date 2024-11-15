@@ -40,7 +40,15 @@ THINGS WE KNOW PROTO-* HAS:
     necessary to explain the difference in length), but I don't want P* to have
     uvular obstruents as described above. Although I do kind of like the idea of
     this phoneme inexplicably yielding /g/ in some places. Maybe I just make it
-    ʁ.
+    ʁ. I'll write it as capital *G for now. And kind of ad-hoc its phonotactics.
+
+* Three vowels /a i u/, BUT strong front/back allophony based on palatalization.
+  In fact, I think what we basically have is /a~ɑ i~ɯ y~u/ aka Triangular
+  Turkish. Taol loses palatalization and turns this into a proper system,
+  gradually shifting /ɯ y u/ to /e u o/. *fruit keeps palatalization and leaves
+  the vowel system as it is. M-T leaves the vowel system alone (probably?) but
+  also loses palatalization mostly. Kyndae keeps palatalization (well, kinda),
+  dunno what it does to vowels. I dunno about *fish either.
 
 MISC NOTES:
 -----------
@@ -49,12 +57,30 @@ MISC NOTES:
   Tʰ) is a change shared across at least Taol, Mittelo-Tavarian, *fruit. It is
   not part of Geönian or *fish. It *might* be part of Kyndae
 
+  - What else happens to these? ʔC > ʔ is interesting and actually seems to be
+    one of the most common things to happen to preglottalized consonants.
+
+  - I originally had Taol retain "preglottalization" as a contrast instead of
+    just voicing, that might be excessive though, especially if this is supposed
+    to be shared with other branches. (In particular if we want Kyndae to get a
+    voicing contrast...)
+
 * Proto-* is a synthetic (but not polysynthetic) language with very short
   affixes (less than a syllable). Tavarian retains this and is varying degrees
   of fusional. Kyndae is fully fusional. Taol drops this; it is entirely
   isolating in terms of morphology and is mostly isolating in derivation as well
   (all endings are nonproductive). Some compounds are traditionally written as
   one word (Elmincár) but there's not really any reason they need to be.
+
+  - generating word lists for this is going to be hell. Do I give it something
+    like a CCVCC (maximal) syllable shape (with maximum disyllabic roots) and
+    then do short affixes of random shape? Most clustery roots I have here are
+    tlaytʔ "tree" and aʔkriʔ "left". That first one is probably excessive
+    though, and we *know* that Maotic drops short finals. So let's retcon that
+    to tlaytʔa.
+
+    I think we still have maximally CCVCC roots though, just some rules that
+    avoid overly complex clusters.
 
 * Earlier models of P* gave it a 5-vowel system; I don't like this anymore. I
   think Taol's weird-ass vowel system makes a lot more sense derived from a
@@ -70,7 +96,13 @@ MISC NOTES:
 
 Changes for Taol:
 
+- ʔʲ > y when not blocked by a consonant. shared with others. in fact this may
+  not even be a real distinction in the first place? hmm, except maybe some
+  kyndae series should come from Cy-
+
 - Southern consonant resolution
+
+- break some clusters with ɑ?
 
 - nasals
 
@@ -85,10 +117,32 @@ Changes for Taol:
 - vowels /a i u/ lowered to /ɑ e o/ exc. before palatals. note that /aj ij/ stay
   /aj i:/ but /uj/ becomes /oj/ just because dissimilation
 
-- break some clusters with ɑ
+  - This is questionable, because we have the following rule. This is here to
+    satisfy P* *itkuy > Maotic etkai, but maybe that's questionable anyway.
+    Well, not so much because of the cluster—we have actó anyway and I'd rather
+    be consistent in that respect—but it does conflict with tlaytʔa > tlāitha.
+    Probably a better approach is Taol *etkašiš < P* *itkatʲitʲ.
 
-- t > š / _{i, u} unless blocked by /n/
+- diphthongs in -i epenthesize a glottal stop (tlaytʔa > tlaʔitʔa > tlāitha).
+  this is probably early and possibly shared
+
+- t > š / _{ʲ, i, u} unless blocked by /n/
+
+- loss of glottal stop and compensatory lengthening of preceding vowels,
+  including in the Szemerényi position (VRH > V:R). Does this precede or follow
+  the next rule? Adjust the generator probably since we *should* have more words
+  with syllabic vowels. I mean, if the phonotactics of P* are "meh" we should do
+  it right.
+
+- m= n= R= l= > um in ɑr ɑl
 
 - voicing of C in VCRV [under some conditions?] Hence aplirʔ > aplēs > ablēs,
-  akʲr-uʔ > acró > agró. However atʲlur > atlos > atlas...
+  akʲr-uʔ > acró > agró. However atʲlur > atlos > atlas. Is this a later
+  compound? Adjectivalizer in at-? (Should we give atlas a literal meaning more
+  complex than "big" then? At least originally.)
 
+- nr > dr
+
+- grassman's law (CʰVCʰ > CVCʰ)
+
+- long vowels shorten before another long vowel
