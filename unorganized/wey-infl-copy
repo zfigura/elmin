@@ -1,0 +1,140 @@
+[h1]Declension[/h1]
+
+Weyötiss retains the cases and numbers of Classical Boeotian, with the exception of the vocative, but no longer marks the distinction on the noun. Only the article, and adjectives which were originally oxytone, decline. Additionally, due to the tone split and subsequent loss of final /s/, many cases are simply marked with a difference in tone. This is not typically marked in Weyötiss, but will be marked here:
+[code]
+            Masc                 Fem                  Neut
+       S     D     P        S     D     P        S     D     P
+Nom   -ο˧˩  -ο˩˧  -ο̨˧      -α˩˧  -α˩˧  -α̨˧      -ον˧  -ο˩˧  -α˧
+Gen   -ο˥˧  -ο̨ν˥˧ -ον˥˧    -α˧˩  -α̨ν˥˧ -αν˥˧    -ο˥˧  -ο̨ν˥˧ -ον˥˧
+Dat   -ο̨˥˧  -ο̨ν˥˧ -ο̨˧˩     -α̨˥˧  -α̨ν˥˧ -α̨˧˩     -ο̨˥˧  -ο̨ν˥˧ -ο̨˧˩
+Acc   -ον˧  -ο˩˧  -ο˩      -αν˩˧ -α˩˧  -α˩      -ον˧  -ο˩˧  -α˩
+[/code]
+The article differs slightly, in that the nominative singular is not το1, τα4, τον3, but rather ο, α, το3 (and thus the neuter accusative singular is also το3).
+
+Adjectives which were [i]not[/i] originally oxytone only mark gender: κυφς [kups], κυφ [kup], κυφον [kupʰən] 'nimble'. Most such adjectives are compounds: ϝο̨κονομς, ϝο̨κονομ, ϝο̨κονομον 'house-managing' (also 'economic').
+
+[h1]Conjugation[/h1]
+Verbal inflection has changed significantly. The old imperfect, pluperfect, passive, subjunctive, and participle have all been lost. The basic verbal paradigm for a strong verb [and by extension most verbs] is shown below:
+[h2]Strong[/h2]
+λιπο, λιφσο, λιπ, λελο̨π, α λο̨πα 'leave':
+[code]
+             1S       2S       3S       Dual       1P         2P       3P
+Pres   Ind   λιπο     λιφς     λιπι     λιπτον     λιπμιν     λιπτ     λιπο̨νθ
+       Opt   λιπο̨μ    λιπο̨ς    λιπο̨     λιπο̨τον    λιπο̨μιν    λιπο̨τ    λιπο̨ιν
+       Imp            λιπ      λιπτο    λιπτον                λιπτ     λιπονθο
+Fut    Ind   λιφσο    λιφς     λιφσι    λιφστον    λιφσμιν    λιφστ    λιφσο̨νθ
+       Opt   λιφσο̨μ   λιφσο̨ς   λιφσο̨    λιφσο̨τον   λιφσο̨μιν   λιφσο̨τ   λιφσο̨ιν
+       Imp            λιφς     λιφστο   λιφστον               λιφστ    λιφσονθο
+Aor    Ind   λιπ      λιφς     λιπ      λιπτον     λιμμιν     λιπτ     λιπον
+       Opt   λιπα̨μ    λιπα̨ς    λιπα̨     λιπα̨τον    λιπα̨μιν    λιπα̨τ    λιπα̨ιν
+       Imp            λιπ      λιπτο    λιπτον                λιπτ     λιπανθο
+Perf   Ind   λελο̨π    λελο̨φς   λελο̨π    λελο̨πτον   λελο̨μμιν   λελο̨πτ   λελο̨πον
+       Opt   λελο̨πο̨μ  λελο̨πο̨ς  λελο̨πο̨   λελο̨πο̨τον  λελο̨πο̨μιν  λελο̨πο̨τ  λελο̨πο̨ιν
+       Imp            λελο̨π    λελο̨πτο  λελο̨πτον              λελο̨πτ   λελο̨πονθο
+[/code]
+Other examples: ϝρεχο, ϝρεχσο, ϝραχ, ϝεϝροχ, α ϝροχα 'rain'; μενο, μενσο, μαν, μεμον, α μονα 'wait'
+Strong verbs add -ση- in the future. Verbs are categorized into at least the following patterns of inflection with regard to their stem vowel:
+
+[code]
+        I       Ib      II      IIb     III     IV
+Pres    ε       ε       ι       ι       αυ      ε
+Aor     α       ο       ι       ι       υ       ε
+Perf    ο       ο       ο̨       ι       υ       ο̨
+VN      ο       ο       ο̨       ι       υ       ο̨
+[/code]
+
+[h2]Vowel-stem[/h2]
+Vowel-stem verbs use most of the same endings, but form the tenses differently: πα̨σευο, πα̨σευσηο, πα̨σευς, ππα̨σευκ, α πα̨σευσς 'teach'; παυο, παυσηο, παυς, ππαυκ, α παυσς 'stop'
+[code]
+             1S        2S        3S        Dual        1P          2P         3P
+Pres   Ind   πα̨σευο    πα̨σευς    πα̨σευι    πα̨σευτον    πα̨σευμιν    πα̨σευτ     πα̨σευο̨νθ
+       Opt   πα̨σευο̨μ   πα̨σευο̨ς   πα̨σευο̨    πα̨σευο̨τον   πα̨σευο̨μιν   πα̨σευο̨τ    πα̨σευο̨ιν
+       Imp             πα̨σευ     πα̨σευτο   πα̨σευτον                πα̨σευτ     πα̨σευονθο
+Fut    Ind   πα̨σευσηο  πα̨σευς    πα̨σευσηι  πα̨σευστον   πα̨σευσημιν  πα̨σευστ    πα̨σευσηο̨νθ
+       Opt   πα̨σευσηο̨μ πα̨σευσηο̨ς πα̨σευσηο̨  πα̨σευσηο̨τον πα̨σευσηο̨μιν πα̨σευσηο̨τ  πα̨σευσηο̨ιν
+       Imp             πα̨σευς    πα̨σευστο  πα̨σευστον               πα̨σευστ    πα̨σευσηονθο
+Aor    Ind   πα̨σευς    πα̨σευς    πα̨σευς    πα̨σευστον   πα̨σευσημιν  πα̨σευστ    πα̨σευσηον
+       Opt   πα̨σευσηα̨μ πα̨σευσηα̨ς πα̨σευσηα̨  πα̨σευσηα̨τον πα̨σευσηα̨μιν πα̨σευσηα̨τ  πα̨σευσηα̨ιν
+       Imp             πα̨σευς    πα̨σευστο  πα̨σευστον               πα̨σευστ    πα̨σευσηανθο
+Perf   Ind   ππα̨σευκ   ππα̨σευκς  ππα̨σευκ   ππα̨σευκτον  ππα̨σευκμιν  ππα̨σευκτ   ππα̨σευκον
+       Opt   ππα̨σευο̨μ  ππα̨σευο̨ς  ππα̨σευο̨   ππα̨σευο̨τον  ππα̨σευο̨μιν  ππα̨σευο̨τ   ππα̨σευο̨ιν
+       Imp             ππα̨σευ    ππα̨σευτο  ππα̨σευτον               ππα̨σευτ    ππα̨σευονθο
+[/code]
+Vowel verbs add -ση- in the future and aorist, and -κ- in the perfect indicative.
+
+Note that not all vowel verbs end with a vowel in the present: τιμο, τιμασηο, τιμας, ττιμακ, α τιμασς 'be related to', σο̨ρο, σο̨ρισηο, σο̨ρις, σσο̨ρικ, α σο̨ρισς 'offer'.
+
+[h2]Weak verbs[/h2]
+Weak verbs conjugate as strong verbs, but do not ablaut: κυπτο, κυφσο, κυφς, κκυφ, α κυ̨φς 'stoop'; φλακτο, φλαχσο, φλαχς, πφλακ, α φλα̨κς 'watch', ρεττο, ρεθσο, ρεθς, ρερετ, α ρεθς 'row'.
+[code]
+             1S      2S      3S      Dual      1P         2P       3P
+Pres   Ind   κυπτο   κυ̨πτς   κυ̨πτι   κυπττον   κυπτμιν    κυπττ    κυπτο̨νθ
+       Opt   κυπτο̨μ  κυπτο̨ς  κυπτο̨   κυπτο̨τον  κυπτο̨μιν   κυπτο̨τ   κυπτο̨ιν
+       Imp           κυπτ    κυπττο  κυπττον              κυπττ    κυπτονθο
+Fut    Ind   κυφσο   κυ̨φς    κυ̨φσι   κυφστον   κυφσμιν    κυφστ    κυφσο̨νθ
+       Opt   κυφσο̨μ  κυφσο̨ς  κυφσο̨   κυφσο̨τον  κυφσο̨μιν   κυφσο̨τ   κυφσο̨ιν
+       Imp           κυφς    κυφστο  κυφστον              κυφστ    κυφσονθο
+Aor    Ind   κυφς    κυφς    κυφς    κυφστον   κυφσμιν    κυφστ    κυφσον
+       Opt   κυφσα̨μ  κυφσα̨ς  κυφσα̨   κυφσα̨τον  κυφσα̨μιν   κυφσα̨τ   κυφσα̨ιν
+       Imp           κυφς    κυφστο  κυφστον              κυφστ    κυφσανθο
+Perf   Ind   κκυφ    κκυφς   κκυφ    κκυπτον   κκυφμιν    κκυπτ    κκυφον
+       Opt   κκυφο̨μ  κκυφο̨ς  κκυφο̨   κκυφο̨τον  κκυφο̨μιν   κκυφο̨τ   κκυφο̨ιν
+       Imp           κκυφ    κκυπτο  κκυπτον              κκυπτ    κκυφονθο
+[/code]
+The perfect uses the bare stem; the future and aorist add -σ-; the present adds -τ-. A large subset of this class, termed σ-verbs, have presents in -σσο rather than -κτο, e.g. ϝελπισσο, ϝελπιχσο, ϝελπιχσα, ϝεϝελπικ, α ϝελπιχς 'hope'; ϝερρασσο, ϝερραχσο, ϝερραχσα, ϝεϝερρακ, α ϝερρα̨χς 'trade'.
+
+[h2]Infinitive and verbal noun[/h2]
+The infinitive of any tense is formed by adding -μιν.
+
+The form of the verbal noun varies—with strong verbs, it is usually the o-grade plus -α; with weak verbs, a derivative in -ς with umlaut (from -σις); with vowel verbs, a derivative in -σς. In every case it is feminine if used with the article.
+
+[h2]Irregular verbs[/h2]
+
+The conjugation of ιμμα̨ 'I am' is as follows:
+
+[code]
+             1S     2S      3S     Dual    1P      2P    3P
+Pres   Ind   ιμμα̨   ισσηα̨   ιττα̨   ιτθον   ιμμιν   ιττ   ινθα̨
+       Opt   εν     ες      ε      ετον    εμιν    ετ    εν
+       Imp          ιθ      ετο    ετον            ετ    ετον
+[/code]
+The infinitive is εμιν. There is no verbal noun.
+
+
+The conjugation of συμμα̨ 'I can' is as follows:
+
+[code]
+             1S       2S      3S     Dual     1P       2P     3P
+Pres   Ind   συμμα̨    συνσηα̨  συντα̨  συνθον   συμμεθ   συνθ   συνθα̨
+       Opt   συνα̨μον  συνα̨ς   συνα̨τ  συνα̨θον  συνα̨μεθ  συνα̨θ  συνα̨νθ
+       Imp            συνς    συνθο  συνθον            συνθ   συνθο
+[/code]
+The infinitive is συμμιν. There is no verbal noun.
+
+
+The conjugation of τθιμ 'I do' is as follows:
+
+[code]
+             1S      2S     3S     Dual     1P       2P     3P
+Pres   Ind   τθιμ    τιτς   τθιτ   τιττον   τιθμιν   τιττ   τιθινθ
+       Opt   τθαιιν  τθαις  τθαιε  τθαιτον  τθαιμιν  τθαιτ  τθαιιν
+       Imp           τιθε   τιττο  τιττον            τιττ   τιθινθο
+Aor    Ind   θικ     θικς   θικ    εττον    εθμιν    εττ    εθον
+       Opt   θαιιν   θαις   θαιε   θαιτον   θαιμιν   θαιτ   θαιιν
+       Imp           θε     θετο   θετον             θετ    θενθο
+[/code]
+
+
+The conjugation of σο̨μ 'I give' is as follows:
+
+[code]
+             1S      2S     3S     Dual     1P       2P     3P
+Pres   Ind   σσο̨μ    σισς   σσο̨τ   σισσον   σισμιν   σισς   σισο̨ντ
+       Opt   σσοιιν  σσοις  σσοι   σσοιτον  σσοιμιν  σσοιτ  σσοιιν
+       Imp           σισο   σισσο  σισσον            σισς   σισονθο
+Aor    Ind   σοκ     σοκς   σοκ    εσσον    εσμιν    εσσ    εσον
+       Opt   σοιιν   σοις   σοι    σοιτον   σοιμιν   σοιτ   σοιιν
+       Imp           σο     σοτο   σοτον             σοτ    σονθο
+[/code]
+
+The forms σιστον, εστον, σιστ, εστ are dialectal.
