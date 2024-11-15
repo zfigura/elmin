@@ -47,21 +47,8 @@ m n ɳ ŋ ŋ̨ [ɴ ɴ̨]
 <twabs> -qaya 1SG
 <twabs> -wi 3SG.OBJ
 
-I have said some contradictory things here. Let's figure out a way to make them
-simultaneously true.
+---
 
-* I think the only affixes I want are personal.
-
-* ɽ > ɳ, so that explains the loss of ɽ
-
-* SVO
-
-* No morphosyntactic TAM except for present/past.
-
-* Not simply nom-acc. Instead... split ergative, but with separate NOM and ERG
-  cases?
-
-I don't really want to mark case on nouns, but I'm okay with doing a Japanese.
 
 Let's just write out some sentences:
 
@@ -109,21 +96,86 @@ waṭaeṭṭaye "it was mended"
 
 - ṭṭa(ye) 3SG.N.PASS
 
+---
 
-we need a bit of diachrony/synchrony:
+* ɽ > ɳ, so that explains the loss of ɽ
 
-* pre-language has *ɽ, /a e i o u/ and CV
+* SVO but with some freedom to front
 
-* o > ø
-* Cl > tl
-* p > ø
-* C > rC / _r, r_
-* r > n / V_{e}
-* r > ɳ / V_{a,o,u}
-* l > n / _C
-* r > ø
-* e > a / stressed
-* i u > e o
+============
+MORPHOSYNTAX
+============
+
+Hrng historically had an erg-abs alignment, but then syncretism happened in some
+(most?) places. As a result it basically started innovating a direct/inverse
+system on top of this.
+
+The upshot is that there are now four cases. If a SAP is present, the language
+is basically nom/acc; otherwise it's erg/abs. acc = abs but nom != erg. Also
+there's a passive marker.
+
+Verbs mark obligatorily (sort of) for two TAM-like categories, and they also
+mark for person. In the latter case Hrng is basically in the process of slurping
+up personal pronouns.
+
+The personal pronouns are:
+
+3sg:
+
+        ANIM   INAN
+ - NOM  kewe   ṭewe/teu
+ - OBJ  ken    ṭe
+ - ERG  wi     ṭe
+ - PASS wiṭa   eṭṭa(ye)
+
+2sg:
+
+        ANIM
+ - NOM  nema
+ - OBJ  naq̣e (or just na?)
+(- PASS neṭa?)
+
+1sg: yoŋ NOM/OBJ. Passive constructions with 1SG and 2SG can't really be done.
+
+Moods are:
+
+* -qaya (or alternate form qau) indicative;
+
+* -to desiderative;
+
+* -leq.a optative
+
+* -ŋi conative or inchoative
+
+Conditionals are marked with a different particle ŋo but still takes a mood. The
+same particle is used for conjoining subordinate clauses which are not
+conditionals. It *can* have an irrealis force but does not really...
+
+(FIXME: This should be less of a TA/M split. It's awfully IE at the moment.)
+
+The other TAM thing is sort of questionably grammaticalized. Basically this is
+the Portuguese thing. The Portuguese thing is transparently derived from verbal
+periphrasis that got elided. In our case, Hrng is already known to compound
+verbs aggressively, and this is no exception. The verb for the past tense is the
+one that got elided, but there are some others:
+
+* kena ???
+
+* qeḷo "stop doing"
+
+* wane "do repeatedly, keep doing"
+
+When verbs are compounded, personal pronouns go right before the last verb.
+
+FIXME: Redo some of these? I want to show off some consonant synchrony so we
+should probably have some things end in -t or -C
+
+====
+
+SYNCHRONICS
+
+* CVj, CVw > Ci, Cu
+* l > w
 * delete final /e a/ if the word has more than two syllables? this is probably synchronic
 
 * there is not much of a preposition/verb distinction. there are a few
