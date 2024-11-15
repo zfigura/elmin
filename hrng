@@ -135,13 +135,16 @@ The personal pronouns are:
  - OBJ  naq̣e (or just na?)
 (- PASS neṭa?)
 
-1sg: yoŋ NOM/OBJ. Passive constructions with 1SG and 2SG can't really be done.
+1sg: yoŋ NOM/OBJ. Passive constructions with 1SG (and 2SG?) can't really be
+done.
 
-Moods are:
+Verbal forms are:
 
 * -qaya (or alternate form qau) indicative;
 
-* -to desiderative;
+* -qaqaya iterative;
+
+* -to "gnomic" (don't like this ending much we should change it)
 
 * -leq.a optative
 
@@ -151,26 +154,35 @@ Conditionals are marked with a different particle ŋo but still takes a mood. Th
 same particle is used for conjoining subordinate clauses which are not
 conditionals. It *can* have an irrealis force but does not really...
 
-(FIXME: This should be less of a TA/M split. It's awfully IE at the moment.)
-
 The other TAM thing is sort of questionably grammaticalized. Basically this is
 the Portuguese thing. The Portuguese thing is transparently derived from verbal
 periphrasis that got elided. In our case, Hrng is already known to compound
 verbs aggressively, and this is no exception. The verb for the past tense is the
 one that got elided, but there are some others:
 
-* kena ???
+* kena "want to do"
 
 * qeḷo "stop doing"
 
 * wane "do repeatedly, keep doing"
+
+* ??? (at least 1 more)
 
 When verbs are compounded, personal pronouns go right before the last verb.
 
 FIXME: Redo some of these? I want to show off some consonant synchrony so we
 should probably have some things end in -t or -C
 
-====
+======
+SYNTAX
+======
+
+* Passive constructions take a verb as normal and a noun in the passive case.
+  There is a native way to express passive agent ("by X") but I'm not sure what
+  it is. Colloquial Yangharad however borrows the Maotic construction of using a
+  preposition (Maotic "hor X", hor "around" > "by", not quite sure how yangharad
+  does prepositions yet actually so can't translate this yet) but this competes
+  with the older method.
 
 SYNCHRONICS
 
