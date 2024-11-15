@@ -10,8 +10,8 @@ New design of Kyndae. Borrows from the old, but is also new.
 
 * ə is epenthesized after final clusters.
 
-* Other consonant clusters assimilate to the second consonant, except /n/.
-  Initials just lose the first consonant
+* Other consonant clusters assimilate to the second consonant, except /n/ (which
+  still has poa allophony). Initials just lose the first consonant
 
 * pʲ tʲ kʲ > ps ts č. č is a proper stop, and eventually shifts back to a
   retroflex. This affects ɠʲ but not ɓʲ ɗʲ; those just lose palatalization
@@ -44,6 +44,8 @@ New design of Kyndae. Borrows from the old, but is also new.
 
 * /x/... what happens to /x/? Maybe it dies at an earlier point, but I almost
   want to keep it. ɣ should die though and result in hiatus.
+
+* Final nasal clusters (nC) lose the final consonant. Nasals elsewhere do *not*.
 
 
 kʲatkiʔʲ > čakkij > csáxi
