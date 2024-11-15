@@ -1,0 +1,43 @@
+Sound changes from AGrk to ? - early draft
+
+- /y/ back to /u/ (either by analogy with, well, everything — or it never fronted)
+- Syncope of unstressed short vowels sometimes (when? probably directly after the stressed vowel—so syncope the penult when it doesn't result in an illegal cluster. Note that we [probably] won't syncope out vowels in hiatus as this may effectively wipe out palatalization.)
+	- (On the "History of Spanish" page: this happened before or after the stressed vowel when the syncoped vowel bordered /r/ or /l/, and then later between certain consonants — *after* palatalization, ergo decimus > dieçmo.)
+- Contraction occurs with some vowel sequences, sometimes. See agrk-contract
+- Prosthetic ῐ before initial F+C
+-  ᾰ ε ῐ ο ῠ ᾱ  η  ῑ  ω  ῡ  ει ου
+  /a e i o u aː ɛː iː ɔː uː e: o:/ >
+  /a e e o o aː ɛː iː ɔː uː e: o:/
+- (Syllable-)final /n/ lost except in monosyllables
+- /h/ lost :(
+- final /er/ > /re/, /or/ > /ro/ (incl. /ɛr ɔr/)
+- σθ > στ
+- Accent shifts to penultimate (still following acute/circ rules)
+- Stressed /ɪ/ in -ι/-ι diphthongs becomes /j/, *unless* it has acute (since the /ɪ/ is stressed.) Likewise for -υ. Note that ει and ου are exempt.
+- The Great Palatalization:
+	- κ,γ palatalize (+/ʲ/) before /ɛ e i/; κ is also geminated. Note that χ does *not* palatalize.
+	- all stops palatalize before hiatus /e i/, e.g. ἀρκέω > /ɑrkʲéɔ/
+	- /j/ palatalizes a following consonant and drops, final /j/ also drops; intervocalic /j/ remains, e.g. ποιέω poiéō > /pojéɔ/, ᾠόν (ōión) > /ɔjó/
+	- Dipthongs in -u BLOCK palatalization of a following consonant, and the υ drops (also final /w/) E.g. αὐλέω > /ɑléɔ/ instead of /ɑlʲéɔ/. Likewise a υ/ο in hiatus (this occurs enough to be comparable, I think, at least the former) blocks palatalization due to preceding dipthongs.
+=======================================
+- Unstressed vowels in _VC or _V$ elide or shorten, thus ᾱήρ > aːέːr > aɛ́ːr > aέr (gen. aéros), ᾄδω > aːídɔː > aídɔː > aídɔ, οίδω > oídɔː > ídɔː > ídɔ
+- *Now* we lose the length distinction.
+- Breaking of stressed open /ɛ e ɔ o/ > /je ej wo ow/.
+	- This creates /jj/ and others...
+- /wo/ > /we/
+- /ei/ > /eː/ written é; /ou/ > /oː/ written ó
+- Consonant shift of /tʰ/ > /t/ > /d/ > /Ø/ &c. intervocalically (where the definition of "vowel" here includes ρ); geminated stops instead shorten
+- /s/ before a consonant debuccalizes to /h/ (cf French); giving vowels length distinction (again, but it's subsequently lost) marked by circumflex
+- Remaining aspirates become fricatives
+- Initial fricatives debuccalize to /h/, fricatives and stops in V_C (?) debuccalize to /j/ (labials instead become /w/)
+	- fricatives and stops in $_C just drop however
+- The results of palatalization on consonants:
+	- Velars /kʲ gʲ xʲ/ and alveolars /tʲ dʲ θʲ/ become /tʃ dʒ ʃ/
+	- Labials /pʲ bʲ fʲ mʲ/ lose their palatalization.
+	- /nʲ lʲ rʲ sʲ zʲ/ > /ɲ ʎ r s z/
+- Nasal harmony
+- Loss of stress distinction
+- Loss of θ universally
+- In a nod to Spanish, /ʃ/ debuccalize and merge with /x/, now written ⟨x⟩.
+- /dʒ/ merges to /tʃ/, now written ⟨c⟩ (or ⟨ç⟩ not before e/i.) /z/ merges to /s/.
+- Strengthening of intervocalic /w/ to /v/
