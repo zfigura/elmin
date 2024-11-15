@@ -1,0 +1,94 @@
+THINGS WE KNOW PROTO-* HAS:
+---------------------------
+
+* The glottal-stop
+
+* Palatalization, I think on all or most consonants.
+
+  - Consonants are always palatal before /i/ but may not necessarily be palatal
+    after /i/.
+
+  - The glottal stop can, I think, be palatalized.
+
+* One nasal.
+
+  - Taol and M-T add a POA distinction to this nasal. *fruit turns it into
+    nasalized vowels and regains nasals from voiced consonants. Kyndae may very
+    well keep it verbatim. Geonian might do something insane like deleting the
+    nasal in initials but keeping it in finals. [We have a Geonian name
+    "Zûtsimazôn" but that could be m < mp or something? Oh but then again we
+    have "Memorizôn". And Baerloni. Still worth thinking about.]
+
+* What phonotactics? [Do a North American approach to this, *some* combinations
+  are avoided or result in metathesis/elision/epenthesis. E.g. CʔVʔC is avoided
+  but I don't know what happens to it.]
+
+* Originally I put /s/ in it but I don't think it's necessary and I'd rather
+  avoid it.
+
+  - Where does Taol's s come from? Actually almost all of the instances of it
+    are in coda position, where /r/ doesn't happen, so that pretty nicely solves
+    that problem. We do however have hesó. (Also a couple of Agrócárian cities
+    beginning with /s/ but that's not really interesting.)
+
+* No uvulars. M-T has them but I have a note that M-T gets them from kʲ k > k q.
+  I stand by this because it avoids letting P* get too sinky. Also because I
+  think M-T is the only branch that has them *anyway*.
+
+  - Where does Taol's ʁ come from? Should I just put it in P*? I did originally
+    make this uvular and had it yield Taol ʁ (regardless of voicing, which is
+    necessary to explain the difference in length), but I don't want P* to have
+    uvular obstruents as described above. Although I do kind of like the idea of
+    this phoneme inexplicably yielding /g/ in some places. Maybe I just make it
+    ʁ.
+
+MISC NOTES:
+-----------
+
+* Disappearance of glottal stop and associated changes (ʔT -> D, Vʔ > V:, Tʔ >
+  Tʰ) is a change shared across at least Taol, Mittelo-Tavarian, *fruit. It is
+  not part of Geönian or *fish. It *might* be part of Kyndae
+
+* Proto-* is a synthetic (but not polysynthetic) language with very short
+  affixes (less than a syllable). Tavarian retains this and is varying degrees
+  of fusional. Kyndae is fully fusional. Taol drops this; it is entirely
+  isolating in terms of morphology and is mostly isolating in derivation as well
+  (all endings are nonproductive). Some compounds are traditionally written as
+  one word (Elmincár) but there's not really any reason they need to be.
+
+* Earlier models of P* gave it a 5-vowel system; I don't like this anymore. I
+  think Taol's weird-ass vowel system makes a lot more sense derived from a
+  3-vowel system with a contrast introduced from some neighbouring attribute. I
+  think I had kind of done the a/A harmony with palatalization and I think it
+  makes the most sense to extend that.
+
+  - actually there's a note on the old eps_roots document saying "it is likely
+    that * had no phonemic difference between e and i; all the words we have
+    have raise e > i before n or s". I like the vowel harmony thing better but
+    we could borrow this for later? Maybe Maotic raises those vowels again
+    later.
+
+Changes for Taol:
+
+- Southern consonant resolution
+
+- nasals
+
+  * Shared with M-T. That said, I need to figure out the contrast here. List of
+    words includes: agróme, alóné, elmin, in, namó, émaor, melith, maot (Maoth,
+    Maotel). Also probably-Taol names Aman, Aspen, and probably-M-T names
+    Mentos, Málat. My original condition was /m/ word-initially and before /n/
+    but that's violated by agróme (but that could be a compound?), namó, and
+    émaor. So perhaps the condition should be /m/ word-initially and before back
+    vowels, which I think actually fits perfectly? And is a lot more reasonable.
+
+- vowels /a i u/ lowered to /ɑ e o/ exc. before palatals. note that /aj ij/ stay
+  /aj i:/ but /uj/ becomes /oj/ just because dissimilation
+
+- break some clusters with ɑ
+
+- t > š / _{i, u} unless blocked by /n/
+
+- voicing of C in VCRV [under some conditions?] Hence aplirʔ > aplēs > ablēs,
+  akʲr-uʔ > acró > agró. However atʲlur > atlos > atlas...
+
