@@ -38,7 +38,7 @@ def select(l):
                         return k
                 a -= l[k]
 
-for i in range(randrange(2, 4)):
+for i in range(randrange(5, 9) // 2):
         word += select(initials) + select(medials)
 
 print(word)
@@ -63,5 +63,7 @@ for i in range(len(word)):
 
 word = re.sub('i','e',word)
 word = re.sub('u','o',word)
+
+word = re.sub('e([mnŋ]?)q',r'a\1q',word)
 
 print(word)

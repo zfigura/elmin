@@ -98,6 +98,9 @@ Some notes, though:
 
   - stop + y is left alone
 
+  - stop + w is left alone, I'm pretty sure. It's very possible that /tw/ is
+    pronounced [pw] or even [p]. (Modulo voicing. What is voicing like in Hrng?)
+
   - others are not worked out
 
   - vowel hiatus is generally fine, but ee dissimilates to ae. -aa- and -oo- do
@@ -139,15 +142,32 @@ The personal pronouns are:
  - ERG  wi     ṭe
  - PASS wiṭa   eṭṭa(ye)
 
+3pl:
+
+        ANIM    INAN
+ - NOM  keṇṭewe neṇṭeu(e)
+ - OBJ  keṇṭe   nen
+ - ERG  yat     nen
+ - PASS yaṭṭa   neṇṭa(ye)
+
 2sg:
 
         ANIM
  - NOM  nema
- - OBJ  naq̣e (or just na?)
+ - OBJ  naq.e (or just na?)
 (- PASS neṭa?)
+
+2pl:
+
+        ANIM
+ - NOM  omato
+ - OBJ  omaqe (or slightly leveled omaq.e)
+(- PASS omaṭa?)
 
 1sg: yoŋ NOM/OBJ. Passive constructions with 1SG (and 2SG?) can't really be
 done.
+
+1pl: qale NOM/OBJ.
 
 Case endings for normal nouns or adjectives (I deleted these at some point and
 I'm not sure why. I'd rather thave them back especially since I think the words
@@ -158,6 +178,8 @@ could afford to be longer for aesthetic purposes.):
  - OBJ  -Ø     -e
  - ERG  -ka    -e
  - PASS -ṭa    -eṭṭa(ye)
+
+Nouns also mark for pluralization, with an ending -wane- which precedes case.
 
 Those nominative and passive endings probably have complicated implications
 about diachronic stress patterns, which I am going to just neglect to address.
@@ -239,8 +261,8 @@ SYNTAX
 
 ---
 
-ṭeṇ ŋ.o kemimatatato n.ewe ŋ.o naṭeṭṭo keḷeḷ ṇiwe naŋa?
-why that 3A.OBJ-3A.ERG-raise-AOR child-OBJ that lack-AOR mother-OBJ and father-OBJ
+t.en. ŋ.o kenyatweyon.aq.ato n.ewe ŋ.o nat.et.t.o kel.el. n.iwe naŋa?
+why that 3SG.AN.OBJ-3PL.AN.ERG-give-feed-AOR child-OBJ that lack-AOR mother-OBJ and father-OBJ
 
 	* there is not a strong difference between "ten" and "ten ŋo". I think
           the latter is a bit older
@@ -260,8 +282,13 @@ why that 3A.OBJ-3A.ERG-raise-AOR child-OBJ that lack-AOR mother-OBJ and father-O
           or possibly just because a child lacks its parents for, well, most of
           its life
 
-ṭeṇ? ṭeṇ keŋ.o mat ŋ.o witeṭoto?
-why any thing.OBJ that 3A.ERG-do-AOR?
+	* I originally used the verb matata 'raise' here, but it ends up being a
+          bit phonologically ridiculous: yat + matata + to = yantatatato
+
+t.en.? t.en. keŋ.o mat ŋ.o yattet.oto?
+why any thing.OBJ that 3PL.AN.ERG-do-AOR?
+
+	* keŋ.o is an adverb
 
 ŋen.a, wot.a, ŋen.a mat ŋ.o n.aŋelok.ato
 it's, well, it's thing.OBJ that unclear-mind-AOR
@@ -296,8 +323,8 @@ it's, well, it's thing.OBJ that unclear-mind-AOR
           mb?) and leaving it as is. It's probably a recent process though so if
           it's a suffix it should be from clear analogy.
 
-wot.a qot.en.e, maqeq.eqaet.e keṇṭaek.oneqaweq.ato
-but however, system-ERG 3A.OBJ-3I.ERG-for-behave-AOR
+wot.a qot.en.e, maqeq.eqaet.e ken.t.et.aek.oneqaweq.ato
+but however, system-ERG 3PL.AN.OBJ-3SG.IN.ERG-for-behave-AOR
 
 	* A maqeqeqaete is a water-engine. Possibly it's a simple mechanical
           water-wheel, but probably it has some magical aspect that I should
@@ -333,11 +360,11 @@ but however, system-ERG 3A.OBJ-3I.ERG-for-behave-AOR
           verb in a compound (which would yield ek.oneken.t.eqaweq.ato). I'm not
           sure if I like that rule, I might reverse it.
 
-t.en.ali kawataoq.a ŋen.a lok.aka et.e yiwato,
-because how-many there's person-ERG ground-OBJ be_above-AOR,
+t.en.ali kawataoq.a ŋen.a lok.awaneka et.e yiwato,
+because how-many there's person-PL-AN.ERG ground-OBJ be_above-AOR,
 
-n.aweoq.a kaqet.t.aye naliyet.t.aye wito k.attet.t.aye wi
-so-many hand-PASS that-PASS fill-AOR of-PASS 3A-OBJ
+n.aweoq.a kaqet.t.aye naliyet.t.aye wito k.atet.t.aye ken.t.e
+so-many hand-PASS that-PASS fill-AOR of-PASS 3PL.AN.OBJ
 
 	* Translating "own" by instead adding a demonstrative for emphasis.
 
@@ -371,5 +398,18 @@ so-many hand-PASS that-PASS fill-AOR of-PASS 3A-OBJ
 
 	  What case is the possessor in? Citation form, i.e. OBJ.
 
-witan.q.aŋemataneto
-3A.ERG-not-unclear-create-AOR
+yattan.q.aŋemataneto nulowane k.atewane qen.on.e n.iwe waŋe,
+3PL.AN.ERG-not-unclear-create-AOR illusion-PL-OBJ of-PL-OBJ kind-OBJ and gentle-OBJ
+
+	* This is grammatical. Might not be the best way to do it but I'm not
+          going to think *that* hard about it.
+
+ŋen.a keŋ.o moewane
+it's always rotten-PL-OBJ
+ŋen.a mat yet.ewane
+it's thing bad-PL-OBJ
+ŋen.a taq n.awe ŋ.o n.akoqaleken.t.eweqaya ŋ.o yul.ewane n.awaqaya
+it's not thus that teach-1PL-3PL.AN.NOM-IND that year-PL-OBJ precede-IND
+
+	* Literally the verb phrase at the end has backwards meaning, but that
+          kind of thing seems pretty common in English, so y'know.
