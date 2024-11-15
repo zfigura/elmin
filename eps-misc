@@ -77,8 +77,21 @@
     *fruit nicely—but that length distinction doesn't show up at all in any of
     its descendants. What *does* happen is that Taol dialects end up deleting or
     reducing a lot of the short vowels. Note from the above example that HT
-    smooths aw > å (which is idk some sort of "backed" ā) and LT simply deletes
-    the /a/.
+    smooths aw > å (which is idk some sort of "backed" ā). I think LT just loses
+    the final consonant (which it does in most situations I think) and then also
+    assimilates wV > wu.
 
-  - I have notes about Ksqyidy and Low Tavarian in general in my notebook. Need
-    to copy some of those here.
+  - I have notes about Ksqyidy and Low Tavarian in general in my notebook.
+    Copied here:
+
+    - Low Tavarian is strict CV [or maybe CV(R)?]. Ksqyidy is fundamentally CV
+      as well, with word final CV(C), it just has weird vowels and diphthongs.
+
+    - Low Tavarian has CVRC > CV₁RV₁C. Ksqyidy then has CV₁R > CR=. Low Tavarian
+      may have some vowels which always get lost also? But /s= n=/ may just be
+      more often word initial or final.
+
+    - Ksqyidy vowel inventory: /z (s) n i v e ɜ o a/, modulo height. Diphthongs
+      /zi [dial. z:] za ia va vo/. vi > v (or v:?).
+
+    - Ksqyidy diachronics: r > z, u/w > v.
