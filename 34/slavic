@@ -1,0 +1,137 @@
+As yet unnamed slavlang.
+
+Candidate names:
+
+
+dъněpr-ьskъjь > Dynapereshke(?)
+
+volga > volž-ьskъjь > Vorsheshke
+
+
+Source vocabulary:
+
+
+aleksíj? aleksíja? > yeliksha
+
+cf. Ασιᾱ > OCS Asija
+
+ólьga > olegy
+
+nashtorovny (Russian nésterovna? which itself has uncertain etymology)
+
+
+* Initial A in Aleksej is long, raises to ē and breaks to ye. That A is
+  supposedly already long in PS, and it's not stressed.
+
+* First e in Nesterov lowers to A (apparently after palatalizing the
+  neighbouring s? Or is that some weird cluster effect? I prefer the latter)
+
+  - Actually, it's probably not Nesterov, but rather Dъněstrov. The yat
+    eventually lowers to a. Note that this conflicts with long ā breaking, but I
+    think this vowel is shortened and therefore has a different reflex.
+
+* Second e becomes o, however. I think this is assimilation to the following o.
+
+* Why does the e in Aleksij raise to i, but the e in Nesterov lower to a?
+
+PS long vowels are ī ū ǣ ā ɨː <i u ě a y>, short i u e o ẽ õ <ь ъ e o ę ǫ>.
+PIE ē > ě, a > o, ō/ū > y, au/eu > u??
+
+* Uniquely for a Slavlang, the long/short system makes some effort towards
+  regaining symmetry. One of the major changes we have is that I think vowels
+  shorten in closed syllables and lengthen in open ones, while retaining
+  quality. Also, æ merges with a.
+
+  This would give us symmetrical i e a o u y... but we may need to leave a bit
+  more complexity in there.
+
+  After this point ā raises to ē, e > i, but a remains a (unless yat is distinct
+  from original ā somehow). Does ē > ī? However lengthened ь lowers to ē.
+
+  I think ь ъ remain separate vowel qualities, probably more centralized.
+  Possibly ь merges with ɨ.
+
+
+* one palatal series. PS has two:
+
+  - č ž š (1st regressive palatalization of k g x) [tʃ ʒ ʃ]. [nb x is from s via
+    ruki]
+
+  - c ʒ ś (2nd regressive palatalization of k g x) [ts dz ɕ?]. This basically
+    only affects secondary yat from original *ai.
+
+  - There is also a third "progressive" palatalization from preceding i, again
+    k g x > ts dz ś.
+
+  We'll take both (unlike Novgaradian), but unlike every(?) other Slavic
+  language they'll both become palatal tʃ dʒ ʃ.
+
+  Except: ž (from first palatalization) deaffricates early, but dz doesn't, so
+  the only diachronic source of dʒ in our language is from *gě. Needless to say
+  there are very few of these: *dzěl- "vehement" > "very" and *gvězda "star" are
+  the only two I could find (at least that begin with *g).
+
+  ś š both > ʃ (like West Slavic I guess).
+
+  What happens to *s z ʒ x?
+
+  - ʒ z could very well devoice to ʃ s.
+
+  - x > k?
+
+  - x > f before roundeds? And it dies in clusters. This would leave only <xa>.
+
+  - Could we palatalize xa > śa? Basically an extended version of the 2RP. The
+    only particular problem with this is that Olyegy lacks palatalization.
+    However this could easily be analogy/regularization (feminine nouns would
+    have mixed palatalization and about half of the forms are still before back
+    vowels). (We could also limit xa > śa and keep ka/ga, but I like this
+    solution better. It helps the fact that dʒ is weirdly rare.)
+
+  - I think s/ʃ contrast dies in clusters, and outside of clusters s > x (> f)
+    is not unlikely.
+
+* Cluster simplification. I don't know exactly what this encompasses, but at the
+  very least, all clusters devoice (or lose a voicing contrast).
+
+  CrV gains a breaking vowel which I think is always the following vowel.
+
+
+original
+
+	short	long	final
+a/æ	a	ye	y
+e	i	i	y
+ь	e	ye	y (zero?)
+i	i	a	i
+y	e?	ye?	y
+o	o	u	ǫ
+ъ	ǫ	y?	ǫ (zero?)
+u	u	u?	u
+ę	o?	e	ym
+ǫ	o	o	ǫm
+
+
+
+
+*polьskъ "field"
+
+	M/N		F		M/N PL		F PL
+NOM	puleshkǫ	puleshchy	puleshchi	puleshky
+GEN	puleshchy	puleshky	puleshkǫ	puleshkǫ
+DAT	puleshku	puleshchy	puleshkumǫ	puleshchyemǫ
+ACC	puleshkǫ	puleshkǫm	puleshky	puleshky
+
+	M/N		F		M/N PL		F PL
+NOM	puleshkǫ	puleshky	puleshki	puleshky
+GEN	puleshky	puleshky	puleshkǫ	puleshkǫ
+DAT	puleshku	puleshky	puleshkumǫ	puleshkyemǫ
+ACC	puleshkǫ	puleshkǫm	puleshky	puleshky
+
+
+bolgo-slov-ьnъ esi, gospodь. na-uči mę opravda-nьjemъ tvojimъ
+
+
+Borgoruvyenǫ ishi, Goshpodzhy, nyeuchi mym oplavdyeneim voyamǫ.
+
+볼고루혜너 이시, 곳보즈; 녜우치 믐 옵랗뎨네임 호야머.
