@@ -1,5 +1,7 @@
 New design of Kyndae. Borrows from the old, but is also new.
 
+* Do something with G (what?) unless deleting it
+
 * Kyndae has an Englishoid set of coronals, *and* retroflexes. It's kind of
   insane. A lot of these are going to have clear derivation though (only appear
   in some environments, etc.)
@@ -13,17 +15,18 @@ New design of Kyndae. Borrows from the old, but is also new.
 * Other consonant clusters assimilate to the second consonant, except /n/ (which
   still has poa allophony). Initials just lose the first consonant
 
-* pʲ tʲ kʲ > ps ts č. č is a proper stop, and eventually shifts back to a
-  retroflex. This affects ɠʲ but not ɓʲ ɗʲ; those just lose palatalization
-  instead.
+* pʲ tʲ kʲ > ps ts c (incl voiced). c is a proper stop, and eventually shifts to
+  a retroflex. ps ts will eventually lose the stop and become just /s/.
+
+* i > u / _p [only closed syllables?]
 
 * t ɗ > θ d. (Applies to all POAs). This only applies to unpalatalized glottal
-  stop. Frication is blocked by nasalization.
+  stop. Frication is blocked by nasalization and in ST.
 
-* Second palatalization of velars and palatals to tʃ/dʒ, in CjV. Then that /j/
-  is lost.
+* Second (mostly synchronically reconstructable) palatalization s > š before
+  /i/.
 
-* Other intervocalic /j/ strengthens to dʒ.
+* Intervocalic /j/ strengthens to dʒ.
 
 * Clusters lose their first member, again except for nasals.
 
@@ -34,13 +37,19 @@ New design of Kyndae. Borrows from the old, but is also new.
 
 * /w/ merges with /v/.
 
-* Utterance-initial and utterance-final obstruents are devoiced.
+* Utterance-initial (and utterance-final?) obstruents are devoiced.
 
 * Lose final unstressed vowels.
 
+* a > y before a closed fricative (incl. geminates)
+
+* y > i before /s ʃ/
+
 * non-geminate n > h exc. before an obstruent. This applies anywhere.
 
-* G resolves to ŋ
+* in > an, un > yn
+
+* shorten geminated fricatives? (dialectal?)
 
 * /x/... what happens to /x/? Maybe it dies at an earlier point, but I almost
   want to keep it. ɣ should die though and result in hiatus.
@@ -48,8 +57,15 @@ New design of Kyndae. Borrows from the old, but is also new.
 * Final nasal clusters (nC) lose the final consonant. Nasals elsewhere do *not*.
 
 
-kʲatkiʔʲ > čakkij > csáxi
-kuʔnuwt > xýnnuft??
+kʲatkiʔʲ > cakkij > cakkəj > csákky (or csáxy? csášy?)
+kuʔnuwt > xýnnuft
 
+I think /a/ moves back and /y/ moves down-center over the course of Kyndae's
+life. At an extreme point 
+
+
+tuʔʲ-uʔ > þyžu "five" not þužu. Why? Dissimilation, I think. In that case is the
+alteration retained in the stem? Perhaps for a few fossilized words it is, but
+not elsewhere; other words regularize to one or the other.
 
 tílliŋy
