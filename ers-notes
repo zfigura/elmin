@@ -24,3 +24,188 @@ MAOTIC, or as I like to call it River Speech
 
 * I think that the distinction between ê/î, ô/û was not phonemic, but Classical
   Maotic uses both interchangeably
+
+
+
+Maotic needs reworked. I just don't like the way it looks in the Granicha
+translation. I think it would benefit both from being less SAE—the phonology may
+not be fixable but the syllable structure could be—and from being shorter.
+[Words are kinda long for being isolating. I don't think Maotic is very heavy on
+the derivational morphology either, in fact I think almost everything in it is
+fossilized. [So it's English but EVEN MORE]]
+
+One thing I notice if I step back and look at the map again is that most of the
+words that are definitely Maotic and *not* loanwords are surprisingly CRV. There
+are finals but they're rare. The full list of definitely common nouns is:
+
+* namó "sea"
+* ablés "storm"
+* agróme "forest", also agró-
+* tolet "tree"
+* cár "land"
+* fír "green", also fíre-
+* édris "mountain"
+* elmin "world"
+* actó "rift, division"
+* atlas "large"
+* etkai "island"
+* ash "ocean". This is obviously a loan. Qoqq?
+* alóné "east"
+* casper "warm"
+* taló "river" - not sure if T. stands for this but probably?
+* été "desert"??
+* harad "plains"
+* cuerol "south"
+* phato "map" [accent?]
+* á "or"
+* ó "to"
+* in "of"
+* hesó?
+
+PNs are... honestly I don't even know if it's worth bringing *any* of the PNs
+into this. Even the ones in the *heart* of the Maotic land could easily be
+exonyms. I will point out Cabor/Cabotel, Maoth/Maotel. Aspen is in the heart but
+damn if it doesn't look more like a Kyndae word than any of the others on this
+list. Dzao is almost certainly a Maotic dialect that affricates something, or
+possibly Eastern Taol. Akol Bílé looks plausible.
+
+Dálx has an insane European final cluster which is definitely not typical of
+anything Tavarian or Taol, or Yangharad. It's areally unique and although it's
+kind of cheesy I'm seriously tempted to say it's from a Dalian sacred tongue.
+
+  WAIT OF COURSE IT IS—it's a nonsense word invented by Dalus himself, in what
+  would of course be a typical nonsense-word phonology for his *own* native
+  language. Well, it's a semi-nonsense word where the first half is of course
+  the same syllable as Dalia. (Which is also something he named, probably after
+  himself, though there is at least one real Δηλια in existence.)
+
+Notes on this:
+
+* The only word with k is etkai. etkai is also the only word with a diphthong
+  (not counting ue/ao). Last time it was easy to look at the unusual -tk-
+  cluster and the -i and call it a loan. This time I'm less sure. If it is a
+  loan it looks Tavarian?
+
+  I don't want to kill it just because of k though. The c/k bit + having exactly
+  one palatalized consonant in the language is one of the more interesting bits
+  about Maotic. The -i diphthong I'm less savvy about. I was going to be less
+  savvy about the stop cluster but actó is also a stop cluster so maybe it's
+  fine.
+
+  - Fun fact: the diphthong ao actually doesn't appear, and ue only once! But I
+    still like them so they're staying.
+
+* Most words are CVR (some CVCVR), where r is <ʁ s n l m>. Exceptions:
+
+  - Several words in VCCVR where V₁ is /a/ or /e/ (once long). I like the idea
+    of saying this is a P* thing. Most have a CR cluster except actó, etkai.
+
+    I don't know what the explanation for the P* thing is and I rather like the
+    idea of it being up in the air. It calls to mind sesquisyllables, but no
+    language with sesquisyllables has them in such a restricted form as to never
+    have an onset. And the limited vowel distribution is itself suspicious.
+
+    I do think this suggests a sonority thing for Taol, which lends more weight
+    to this "s patterns as a semivowel" thing.
+
+  - Two words ending in actual stops: tolet [note the variant toléith does not
+    appear on the map], harad. Maybe these are loans and maybe they aren't; I
+    don't know. P* had basically no phonotactical rules but I'd kinda rather not
+    make exception for these. Not gonna lie those two words look decently
+    Tavarian anyway. (Does Tavarian actually have a five-vowel system?)
+
+  - One word 'casper' which I guess could just be CVRCVR? It violates the Taol
+    sonority hierarchy established above. Does Maotic still have the same
+    hierarchy?
+
+* Few fricatives /f s h/. I think these should be rare
+
+
+I'm going to continue to use this as a staging area for the P*/Maotic redesign.
+
+I think:
+
+* I still want P* to have a phonotactics of "whatever". This kind of implies it
+  doesn't have particularly specific syllable structures.
+
+  At the same time, the sesquisyllables kind of have to date back to P*
+  (otherwise I'm forced to invent an explanation for them and I don't want
+  that), and their very existence kind of forces P* to have an idea of a
+  specific syllable structure.
+
+  I think the conclusion has to be that P* has a specific root syllable
+  structure *but* affixes are arbitrary and it's not afraid to just glom them on
+  with no regard for phonotactics. I think the even further idea is that P*
+  basically is in a very specific stage where its idea of syllable structure has
+  completely fallen apart and is about to get independently reinvented by each
+  daughter.
+
+  In the case of Taol you get this awkward situation of "well the initial needs
+  to follow this sonority hierarchy, and probably the final does too in reverse.
+  But initial clusters only happen with the presyllable, and final clusters
+  don't happen because we dropped all final obstruents", probably with some
+  loanword exceptions that prove the rule. The more correct idea is that the
+  sonority hierarchy determines what counts as an onset and what counts as a
+  coda, and then with this in mind codas are just lost, except for word-final
+  sonorants. Weird! (Hell, is coda loss even a general Taol thing? Maybe just
+  Maotic does that.)
+
+* I think P* has final clusters in general, at least CC if not more. (CVCCC
+  without initial clusters is... is that realistic?) Taol/Maotic loses them.
+
+  One interesting effect of this is that if P* generally tries to express
+  morphology through agglutination, and that's mostly suffixing, Maotic halts
+  this in its tracks and forces new analytic constructs to develop to replace
+  those inflections
+
+* Does P* have *initial* clusters? This is a trickier question. The list of 23
+  morphemes above suggests no, except for the Cʔ in <phato>.
+
+  The feminine words are (slightly?) more often VCCV than VCV, but none of the
+  masculine words begin with a cluster. I like this distribution and while I
+  think there should be *some* words beginning with CC, I don't want too many of
+  them.
+
+  One explanation is that words with CC- died at some point, but I feel like
+  this clashes with other phonotactical changes.
+
+  A different explanation is that P* already had this restriction, and I guess
+  pre-P* syllables are just CVCC or something like that. (Obviously P* with its
+  grammaticalization broke that constraint all the time.) The problem here is
+  the glottalization rules—we usually treat the glottal stop as a separate
+  consonant—but I actually kind of like this problem and want to keep it. Like,
+  yeah, *usually* this was P* phonotactics, but what's up with the glottal stop?
+  Should it not be reconstructed as a separate segment?
+
+  - So... why is the glottal stop a separate segment? An evil idea hit me:
+
+    We know that Taol resolves it into three different phonations. My notes are
+    this is probably a whole Southern branch thing (but maybe revisit this). At
+    any rate the Southern branch reconstructions probably don't point to
+    anything but phonation.
+
+    (What is probably true is that glued words or affixes do affect phonation
+    predictably. But this is weak evidence if any for anything weird about the
+    glottal stop.)
+
+    Catathaolian has a different resolution than Taol/Southern but it still
+    doesn't mean anything other than a phonation difference.
+
+    Some branch, not sure which, resolves ʔC and I think also Cʔ to ʔ and then
+    keeps ʔ. This might be either *fish, *fruit [in which case Southern
+    consonant resolution is not actually Southern], or maybe Tentative
+    Fírecárian * Language (Tyräli?). I may like the *fruit way best [should it
+    be shared with MT then?]
+
+    - I don't think it can be *fruit, because *fruit needs a proper nasal series
+      and I think that needs to come from the voiced stops. I guess we *could*
+      do a shift?? But I also like Tʰ > fricative...
+
+    What we have not done, and what I think belongs in *fish, is breaking up of
+    consonant clusters—including glottal clusters—with a vowel. The beautiful
+    thing about doing this in *fish is that it allows us to actually not specify
+    modern pronunciation—and the even more beautiful thing is we don't have to
+    write a glottal stop. Does <itiik> "two" have a long vowel? Maybe, but then
+    what about <vitii> "nape"; why would that vowel be long if it corresponds
+    with Taol <fithi>? Why does <itiik> have an initial vowel and why does
+    <kutu> "blue" have a final vowel?
