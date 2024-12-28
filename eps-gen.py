@@ -7,17 +7,16 @@ import sys
 
 consonants = \
 {
-        'ʔ': 20,
+        'ʔ': 4,
         'p': 6,
         't': 15,
-        'k': 15,
-        'r': 7,
-        'l': 9,
-        'n': 13,
+        'k': 13,
+        'r': 9,
+        'l': 10,
+        'n': 9,
         'y': 4,
         'w': 4,
         'G': 4,
-        '': 50,
 }
 
 vowels = \
@@ -27,15 +26,21 @@ vowels = \
         'u': 40,
 }
 
+prevowels = \
+{
+        'a': 5,
+        'i': 3,
+}
+
 affixes = \
 {
-        'ʔ': 15,
+        'ʔ': 4,
         'p': 4,
         't': 15,
-        'k': 15,
+        'k': 12,
         'r': 12,
         'l': 10,
-        'n': 12,
+        'n': 10,
         'y': 4,
         'w': 4,
         'G': 4,
@@ -55,28 +60,45 @@ def select(l):
 
 if len(sys.argv) > 1 and sys.argv[1] == 'affix':
     word += select(affixes)
-    if (randrange(10) < 8): 
+    if word[-1] not in 'aiuywr' and randrange(10) < 5: word += 'ʲ'
+    if (randrange(10) < 8):
         word += select(affixes)
+        if word[-1] not in 'aiuywr' and randrange(10) < 5: word += 'ʲ'
     print(word)
     exit(0)
 
 def add_consonant():
     x = select(consonants)
+    if x == 'y' or x == 'w':
+        return x
     if (len(x) > 0 and randrange(10) < 5): x += 'ʲ'
+    if x[0] == 'r':
+        return x
+    t = randrange(20);
+    if (t < 3):
+        x = x + 'ʔ'
+    elif (t > 14):
+        x = 'ʔ' + x
     return x
 
-word += add_consonant()
+t = randrange(10)
+
+if (t < 4):
+    word += select(prevowels)
+    word += add_consonant()
+
 word += add_consonant()
 word += select(vowels)
 word += add_consonant()
-word += add_consonant()
-
-if (randrange(10) < 5):
+if (randrange(10) < 4):
     word += add_consonant()
+
+if (t == 4):
     word += select(vowels)
     word += add_consonant()
-    word += add_consonant()
+    if (randrange(10) < 4):
+        word += add_consonant()
 
-print(word)
+word = word.replace('ʔʔ', 'ʔ')
 
 print(word)

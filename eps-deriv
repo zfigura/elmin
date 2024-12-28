@@ -155,14 +155,11 @@ Changes for Taol:
 
 - Southern consonant resolution
 
-- break some clusters with ɑ?
-
 - nasals
 
-  * Shared with M-T. That said, I need to figure out the contrast here. List of
-    words includes: agróme, alóné, elmin, in, namó, émaor, melith, maot (Maoth,
-    Maotel). Also probably-Taol names Aman, Aspen, and probably-M-T names
-    Mentos, Málat.
+  * I need to figure out the contrast here. List of words includes: agróme,
+    alóné, elmin, in, namó, émaor, melith, maot (Maoth, Maotel). Also
+    probably-Taol names Aman, Aspen, and probably-M-T names Mentos, Málat.
 
     agróme vs. alóné is problematic. One of those is going to have to be a
     compound or suffix, though I don't know why. If we assert that ɑ is actually
@@ -218,3 +215,6 @@ Changes for Taol:
 
 - gʲ dies off somehow (> /j/?), but late. The dz in Dzao is probably a dialect
   that turned kʲ gʲ into /ts dz/ (probably [tʃ dʒ]).
+
+- [late] hw > w. This specifically means that words that would begin with hue-
+  don't, notably <ue> "five"
